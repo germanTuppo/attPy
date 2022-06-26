@@ -69,11 +69,9 @@ Para meter las tablas: python manage.py sqlmigrate "nombre de la app" 0001 esto 
 Los elementos de la db los voy a crear a mano para el desafío, por lo menos algunos (despues ver poner mas con código)
 
 Panel de administracion: python manage.py createsuperuser
-User: germantuppo
-Mail: germantuppo@gmail.com
-pass: 836712839
+
+
 
 cree las vistas y me copie los archivos que hizo el profe para ir probando. No me gusta la idea de copiarme una plantilla pero de momento vaaa!
 
 Di funcionalidad la plantilla http://127.0.0.1:8000/integrantes/ para que traiga los elementos de la tabla integrantes y los muestre mediante una tabla hecha con bootstrap
------------------------------------------ACA CIERRO LO DEL DESAFÍO, Mariano, se venevolo...---------------------------------------

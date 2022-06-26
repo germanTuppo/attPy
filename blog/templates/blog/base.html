@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+
+    {% load static %}  
+
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <meta name="description" content="Argentina Travel and Tours es un emprendimiento creado por amantes de los viajes con el objetivo de contagiar nuestra pasión a todos los viajantes del mundo que quieran descubrir nuevos y apasionantes lugares. Nos encontramos en la Ciudad Autonoma de Buenos Aires y diseñamos tours personalizados por argentina y algunos paises de Latinoamérica">
+    <meta name="keywords" content="VIAJES, TOURS, TURISMO, ARGENTINA, CATARATAS, BARILOCHE, PATAGONIA, PAQUETES, BUENOS AIRES, CALAFATE, GLACIAR, BALLENAS, PINGUINOS, USHUAIA, VINO">
+    
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+
+    <!-- AOS CSS -->
+    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+    
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Lobster&display=swap" rel="stylesheet">
+    
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;1,300;1,400&display=swap" rel="stylesheet">
+    
+    <!-- CSS -->
+    <link rel="stylesheet" href="{%static 'blog/css/styles.css' %}">
+
+    <title>Argentina Travel and Tours</title>
+</head>
+<body>
+
+
+  <!-- MENU -->
+  <header>
+    <div class="container-fluid p-0">       
+      <nav class="navbar navbar-expand-lg navbar-light fixed-top opacity">
+          <img class="menu__logo" src="" alt="logo">
+
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+              <span class="navbar-toggler-icon"></span>
+            </button>
+
+            <div class="collapse navbar-collapse justify-content-end" id="navbarNavDropdown">
+              <ul class="navbar-nav justify-content-end menu--margin">
+                <li class="nav-item">
+                  <a class="nav-link menu__link active" href="">Inicio</a>
+                </li>
+                <li class="nav-item dropdown">
+                  <a class="nav-link menu__link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                    Destinos
+                  </a>
+                  <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                    <li><a class="dropdown-item menu__link" href="">Buenos Aires</a></li>
+                    <li><a class="dropdown-item menu__link" href="">Iguazu</a></li>
+                    <li><a class="dropdown-item menu__link" href="">Calafate</a></li>
+                    <li><a class="dropdown-item menu__link" href="">Ushuaia</a></li>
+                    <li><a class="dropdown-item menu__link" href="">Mendoza</a></li>
+                    <li><a class="dropdown-item menu__link" href="">Bariloche</a></li>
+                    <li><a class="dropdown-item menu__link" href="">Puerto Madryn</a></li>
+                    <li><a class="dropdown-item menu__link" href="">Norte</a></li>
+                    <li><a class="dropdown-item menu__link" href="">Arma tu viaje</a></li>
+                  </ul>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link menu__link" href="">Paquetes</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link menu__link" href="">Excursiones</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link menu__link" href="">Contacto</a>
+                </li>
+
+                <!-- Selección de idioma -->
+                <li class="nav-item dropdown">
+                  <a id="selected-flag" class="nav-link menu__link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                    <!-- aca va a cambiar la bandera dependiendo el idioma elegido -->
+                  </a>
+                  <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                    <li><a class="dropdown-item menu__link" onclick="FiltrarIdioma('es')" href="#"><img class="flag" src="media/flags/espana.png" alt="Bandera España"></a></li>
+                    <li><a class="dropdown-item menu__link" onclick="FiltrarIdioma('pt')" href="#"><img class="flag" src="media/flags/brasil.png" alt="Bandera Brasil"></a></li>
+                    <li><a class="dropdown-item menu__link" onclick="FiltrarIdioma('en')" href="#"><img class="flag" src="media/flags/reino-unido.png" alt="Bandera Reino Unido"></a></li>
+                    <li><a class="dropdown-item menu__link" onclick="FiltrarIdioma('it')" href="#"><img class="flag" src="media/flags/italia.png" alt="Bandera Italia"></a></li>
+                    <li><a class="dropdown-item menu__link" onclick="FiltrarIdioma('fr')" href="#"><img class="flag" src="media/flags/francia.png" alt="Bandera Francia"></a></li>
+                  </ul>
+                </li>
+
+              </ul>
+            </div>      
+      </nav>
+    </div>
+  </header>
+
+
+
+
+  {% block contenidoQueCambia %}
+
+  {% endblock %}
+
+
+
+
+
+<!-- Botstrap JS -->
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
+<script src="https://kit.fontawesome.com/30fc018de6.js" crossorigin="anonymous"></script>
+
+</body>
+</html>
