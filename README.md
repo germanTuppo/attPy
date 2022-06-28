@@ -1,4 +1,5 @@
 "# attPy"
+https://github.com/germanTuppo/attPy.git
 
 En este caso, mi intencion es comenzar un nuevo proyecto, para dejar el anterior ("miProyectoPy") como zona de pruebas, algo donde probar cosas para poder romper todo, pero tener un proyecto mas serio para poder trabajarlo tanto en esta preentrega como en la entrega del proyecto final (y despues, ya que este proyecto es algo real, en el que empece a trabajar con html y css y javascript, y es mi intención mirarlo a django para poder hacer uso de las bases de datos)
 

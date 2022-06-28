@@ -8,7 +8,8 @@ from blog import views
 
 urlpatterns = [
    
-    path('', views.inicio, name="Inicio"), #esta era nuestra primer view
+    path('', views.inicio, name="inicio"), #esta era nuestra primer view
+    path('blog', views.blog, name="blog"), #esta sería la vista blog
     #path('cursos', views.cursos, name="Cursos"),
     #path('profesores', views.profesores, name="Profesores"),
     #path('estudiantes', views.estudiantes, name="Estudiantes"),
