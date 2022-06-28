@@ -27,7 +27,7 @@
     <link href="https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;1,300;1,400&display=swap" rel="stylesheet">
     
     <!-- CSS -->
-    <link rel="stylesheet" href="{%static 'blog/css/styles.css' %}">
+    <link rel="stylesheet" href="{%static 'inicio/css/styles.css' %}">
 
     <title>Argentina Travel and Tours</title>
 </head>
@@ -38,7 +38,7 @@
   <header>
     <div class="container-fluid p-0">       
       <nav class="navbar navbar-expand-lg navbar-light fixed-top opacity">
-          <img class="menu__logo" src="" alt="logo">
+          <img class="menu__logo" src="{%static 'inicio/assets/logos/logo/logo_small.png' %}" alt="logo">
 
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
               <span class="navbar-toggler-icon"></span>
@@ -47,32 +47,32 @@
             <div class="collapse navbar-collapse justify-content-end" id="navbarNavDropdown">
               <ul class="navbar-nav justify-content-end menu--margin">
                 <li class="nav-item">
-                  <a class="nav-link menu__link active" href="">Inicio</a>
+                  <a class="nav-link menu__link active" href="{% url 'inicio' %}">Inicio</a>
                 </li>
                 <li class="nav-item dropdown">
-                  <a class="nav-link menu__link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                  <a class="nav-link menu__link dropdown-toggle" href="" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                     Destinos
                   </a>
                   <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-                    <li><a class="dropdown-item menu__link" href="">Buenos Aires</a></li>
-                    <li><a class="dropdown-item menu__link" href="">Iguazu</a></li>
-                    <li><a class="dropdown-item menu__link" href="">Calafate</a></li>
-                    <li><a class="dropdown-item menu__link" href="">Ushuaia</a></li>
-                    <li><a class="dropdown-item menu__link" href="">Mendoza</a></li>
-                    <li><a class="dropdown-item menu__link" href="">Bariloche</a></li>
-                    <li><a class="dropdown-item menu__link" href="">Puerto Madryn</a></li>
-                    <li><a class="dropdown-item menu__link" href="">Norte</a></li>
-                    <li><a class="dropdown-item menu__link" href="">Arma tu viaje</a></li>
+                    <li><a class="dropdown-item menu__link" href="{% url 'destinos' %}">Buenos Aires</a></li>
+                    <li><a class="dropdown-item menu__link" href="{% url 'destinos' %}">Iguazu</a></li>
+                    <li><a class="dropdown-item menu__link" href="{% url 'destinos' %}">Calafate</a></li>
+                    <li><a class="dropdown-item menu__link" href="{% url 'destinos' %}">Ushuaia</a></li>
+                    <li><a class="dropdown-item menu__link" href="{% url 'destinos' %}">Mendoza</a></li>
+                    <li><a class="dropdown-item menu__link" href="{% url 'destinos' %}">Bariloche</a></li>
+                    <li><a class="dropdown-item menu__link" href="{% url 'destinos' %}">Puerto Madryn</a></li>
+                    <li><a class="dropdown-item menu__link" href="{% url 'destinos' %}">Norte</a></li>
+                    <li><a class="dropdown-item menu__link" href="{% url 'arma' %}">Arma tu viaje</a></li>
                   </ul>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link menu__link" href="">Paquetes</a>
+                  <a class="nav-link menu__link" href="{% url 'paquetes' %}">Paquetes</a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link menu__link" href="">Excursiones</a>
+                  <a class="nav-link menu__link" href="{% url 'blog' %}">Blog</a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link menu__link" href="">Contacto</a>
+                  <a class="nav-link menu__link" href="{% url 'contacto' %}">Contacto</a>
                 </li>
 
                 <!-- Selección de idioma -->
@@ -81,11 +81,11 @@
                     <!-- aca va a cambiar la bandera dependiendo el idioma elegido -->
                   </a>
                   <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-                    <li><a class="dropdown-item menu__link" href="#"><img class="flag" src="{%static 'blog/assets/flags/espana.png' %}" alt="Bandera España"></a></li>
-                    <li><a class="dropdown-item menu__link" href="#"><img class="flag" src="{%static 'blog/assets/flags/brasil.png' %}" alt="Bandera Brasil"></a></li>
-                    <li><a class="dropdown-item menu__link" href="#"><img class="flag" src="{%static 'blog/assets/flags/reino-unido.png' %}" alt="Bandera Reino Unido"></a></li>
-                    <li><a class="dropdown-item menu__link" href="#"><img class="flag" src="{%static 'blog/assets/flags/italia.png' %}" alt="Bandera Italia"></a></li>
-                    <li><a class="dropdown-item menu__link" href="#"><img class="flag" src="{%static 'blog/assets/flags/francia.png' %}" alt="Bandera Francia"></a></li>
+                    <li><a class="dropdown-item menu__link" href="#"><img class="flag" src="{%static 'inicio/assets/flags/espana.png' %}" alt="Bandera España"></a></li>
+                    <li><a class="dropdown-item menu__link" href="#"><img class="flag" src="{%static 'inicio/assets/flags/brasil.png' %}" alt="Bandera Brasil"></a></li>
+                    <li><a class="dropdown-item menu__link" href="#"><img class="flag" src="{%static 'inicio/assets/flags/reino-unido.png' %}" alt="Bandera Reino Unido"></a></li>
+                    <li><a class="dropdown-item menu__link" href="#"><img class="flag" src="{%static 'inicio/assets/flags/italia.png' %}" alt="Bandera Italia"></a></li>
+                    <li><a class="dropdown-item menu__link" href="#"><img class="flag" src="{%static 'inicio/assets/flags/francia.png' %}" alt="Bandera Francia"></a></li>
                   </ul>
                 </li>
 
@@ -119,16 +119,16 @@
             <h3>Nuestras Redes</h3>
             <ul class="d-flex justify-content-center">
                 <li>
-                    <a  target="_blank" href="https://www.facebook.com/Argentina-Travel-and-Tours-105623148812019"><img class="logos-redes" src="{%static 'blog/assets/logos/facebook.png' %}" alt="logo"></a>
+                    <a  target="_blank" href="https://www.facebook.com/Argentina-Travel-and-Tours-105623148812019"><img class="logos-redes" src="{%static 'inicio/assets/logos/facebook.png' %}" alt="logo"></a>
                 </li>
                 <li>
-                    <a  target="_blank" href="https://www.instagram.com/argentinatravelandtours/?hl=en"><img class="logos-redes" src="{%static 'blog/assets/logos/instagram.png' %}" alt="logo"></a>
+                    <a  target="_blank" href="https://www.instagram.com/argentinatravelandtours/?hl=en"><img class="logos-redes" src="{%static 'inicio/assets/logos/instagram.png' %}" alt="logo"></a>
                 </li>
                 <li>
-                    <a  target="_blank" href="skype:leandro.trinanes?userinfo"><img class="logos-redes" src="{%static 'blog/assets/logos/skype.png' %}" alt="logo"></a>
+                    <a  target="_blank" href="skype:leandro.trinanes?userinfo"><img class="logos-redes" src="{%static 'inicio/assets/logos/skype.png' %}" alt="logo"></a>
                 </li>
                 <li>
-                    <a  target="_blank" href="https://api.whatsapp.com/send?phone=5491166809531&text=Hola, Necesito mas informacion!"><img class="logos-redes" src="{%static 'blog/assets/logos/whatsapp.png' %}" alt="logo"></a>
+                    <a  target="_blank" href="https://api.whatsapp.com/send?phone=5491166809531&text=Hola, Necesito mas informacion!"><img class="logos-redes" src="{%static 'inicio/assets/logos/whatsapp.png' %}" alt="logo"></a>
                 </li>
                 
             </ul>

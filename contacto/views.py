@@ -11,6 +11,11 @@ from django.views.generic.edit import CreateView, UpdateView, DeleteView
 from django.urls import reverse_lazy
 
 # Create your views here.
-def inicio(request):
+def contacto(request):
 
       return render(request, "contacto/contacto.html")
+
+
+def arma(request):
+
+      return render(request, "contacto/arma.html")
