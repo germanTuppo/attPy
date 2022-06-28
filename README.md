@@ -10,7 +10,8 @@ Creando las Apps:
     python manage.py startapp blog
     python manage.py startapp contacto
     python manage.py startapp paquetes
-(de momento 3 apps, que es lo que mas siento que usa todas las ventajas de python)
+    python manage.py startapp inicio (me decidí por crear una app inicio para la parte de lo que sería el index. Aca corto con el tema de las apps para no hacerme lio)
+(de momento 4 apps, que es donde siento que usaría todas las ventajas de python)
 
 
 

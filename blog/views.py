@@ -11,10 +11,6 @@ from django.views.generic.edit import CreateView, UpdateView, DeleteView
 from django.urls import reverse_lazy
 
 # Create your views here.
-def inicio(request):
-
-      return render(request, "blog/inicio.html")
-
 
 def blog(request):
 

@@ -1,0 +1,260 @@
+/* Estlos generales */
+* {
+  margin: 0%;
+  padding: 0%;
+  box-sizing: border-box; }
+
+a {
+  text-decoration: none;
+  color: black; }
+
+body {
+  width: 100%;
+  background-color: #fafffd; }
+
+.link_banner {
+  text-decoration: none; }
+
+/* Cards */
+.card--size {
+  min-height: 450px; }
+
+ul {
+  list-style: none; }
+
+.container-fluid {
+  margin: 0;
+  padding: 0; }
+
+.menu__logo {
+  height: 8vh;
+  padding: 5px; }
+
+.menu--margin {
+  margin-left: 50px; }
+
+.menu__titulo {
+  font-family: 'Lobster', cursive; }
+
+.menu__link {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 1.25rem; }
+
+.opacity {
+  background-color: #c5cbd3;
+  opacity: 0.9; }
+
+header {
+  min-height: 10vh; }
+
+nav {
+  min-height: 10vh; }
+
+.carrousel-index {
+  height: 90vh; }
+
+.carrousel-index img {
+  object-fit: cover;
+  width: 100%;
+  height: 90vh; }
+
+/* Textos */
+.infoArgentina__titulo--fuente {
+  font-size: 3rem; }
+
+.infoArgentina__texto--fuente {
+  font-size: 1.5rem; }
+
+.contacto__titulo {
+  display: block;
+  margin: 0 auto; }
+
+.destinos {
+  margin-top: 60px;
+  margin-bottom: 60px; }
+
+.destinos__texto {
+  font-size: 2rem; }
+
+.destinos__titulo {
+  min-height: 70px;
+  width: 100%;
+  font-size: 3rem;
+  font-weight: bold;
+  letter-spacing: 2px;
+  background-color: #4747d4;
+  color: white;
+  text-align: center; }
+
+.destinos__paquetes {
+  min-height: 45px;
+  width: 100%;
+  font-size: 2rem;
+  font-weight: bold;
+  letter-spacing: 10px;
+  background-color: #4747d4;
+  color: white;
+  text-align: center; }
+
+.infoArgentina__textoindex {
+  color: ghostwhite;
+  border: 2px solid black; }
+
+.banner {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #4747d4;
+  color: white;
+  min-height: 70px;
+  width: 100%; }
+
+.banner__titulo {
+  font-size: 2.5rem;
+  font-weight: bold;
+  letter-spacing: 2px; }
+
+.link_banner {
+  position: relative;
+  display: inline-block;
+  text-decoration: none; }
+
+.titulo__banner {
+  display: inline;
+  height: 40px;
+  width: 100%;
+  position: absolute;
+  top: 20px;
+  left: 10px;
+  color: white;
+  font-weight: bold;
+  font-size: 2rem; }
+
+.destinos {
+  margin-top: 5rem; }
+
+.destinos--texto {
+  font-family: cursive;
+  font-size: 15px;
+  background-color: white;
+  border: 1px solid black; }
+
+/*Imagenes excursiones*/
+.galeria {
+  display: flex;
+  background-color: darkkhaki;
+  width: 100%;
+  padding: 20px;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: center;
+  align-content: center;
+  border: 2px solid black; }
+
+.galeria__img {
+  display: flex;
+  border-radius: 5%;
+  margin: 15px;
+  width: 200px;
+  height: auto;
+  align-items: center; }
+  .galeria__img:hover {
+    transform: scale(1.5, 1.5); }
+
+.img-responsive-opaca {
+  width: 100%;
+  height: auto;
+  opacity: 0.6; }
+
+#paisaje {
+  display: block;
+  width: 500px;
+  height: auto;
+  margin: 50px auto; }
+
+.modal__img {
+  width: 100%; }
+
+.mapaContacto {
+  width: 100%;
+  min-height: 400px;
+  height: auto; }
+
+.banner__destinos {
+  color: red; }
+
+.galeriaCircular {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  align-items: center;
+  flex-grow: 1; }
+
+.circular {
+  margin: 15px;
+  display: inline-block;
+  position: relative;
+  width: 350px;
+  height: 350px;
+  overflow: hidden;
+  border-radius: 50%; }
+
+.link-excursiones {
+  width: 100%;
+  display: inline-block;
+  position: absolute;
+  text-align: center;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-decoration: none;
+  font-size: 30px;
+  color: aliceblue;
+  z-index: 999; }
+  .link-excursiones:hover {
+    transform: scale(1.1);
+    transform: translate(-50%, -50%);
+    color: bisque;
+    cursor: pointer; }
+
+.circular img {
+  width: auto;
+  height: 100%;
+  width: 100%;
+  margin-left: 0; }
+
+.flag {
+  width: 30px; }
+
+.acordion-bc {
+  background-color: #c3c8f0; }
+
+.m-width {
+  max-width: 50%; }
+
+@media screen and (max-width: 768px) {
+  .m-width {
+    max-width: 100%; } }
+
+/* footer */
+.footer-style {
+  color: white;
+  margin-top: 200px;
+  padding-top: 50px;
+  background-color: #0947cd; }
+
+footer h3 {
+  margin-bottom: 30px;
+  font-weight: 800; }
+
+footer .footer-col {
+  margin-bottom: 50px; }
+
+.logos-redes {
+  width: 60px; }
+
+.form {
+  padding: 10px; }
+  .form input {
+    margin-bottom: 20px; }
