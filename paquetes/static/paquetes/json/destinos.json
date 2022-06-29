@@ -1,0 +1,285 @@
+[
+    {
+        "codigo" : 1,
+        "titulo": "Buenos Aires",
+        "portada": "../media/9dejulio.jpg",
+        "alt_portada":"Av. 9 de julio",
+        "texto":
+        {
+            "es":"La ciudad de Buenos Aires se encuentra a orillas del Rio de la Plata, se destaca como el centro favorito de los turistas extranjeros y nacionales. Son atraídos por una ciudad cosmopolita, de varios contrastes y con amplia infraestructura. Entre otros muchos factores, el tango es uno de los motivos para la visita a la capital argentina. La característica noche porteña es uno de los grandes atrayentes por su variada oferta cultural, gastronómica y de entretenimiento. Buenos Aires ofrece una amplia actividad cultural. Los viajeros eligen generalmente una visita nocturna a los locales donde se baila tango y un paseo a una típica estancia en la provincia de Buenos Aires, para degustar el tradicional asado. En los últimos años, surgieron nuevos circuitos temáticos, entre ellos muchos dedicados a personalidades importantes como Carlos Gardel, Eva Perón o Jorge Luis Borges. También dispone de numerosos paseos de compras (shoppings), entre los cuales se destacan el Alto Palermo, Paseo Alcorta, Patio Bullrich, Abasto de Buenos Aires y Galerías Pacífico.",
+            "pt":"A cidade de Buenos Aires está localizada às margens do Rio de la Plata, destaca-se como o centro preferido dos turistas estrangeiros e nacionais, eles são atraídos por uma cidade cosmopolita, de vários contrastes e com ampla infraestrutura. Entre tantos outros fatores, o tango é um dos motivos para uma visita à capital argentina. A característica noite portenha é um dos grandes atrativos por sua variada oferta cultural, gastronômica e de lazer. Buenos Aires oferece uma ampla atividade cultural. Os viajantes geralmente optam por uma visita noturna aos locais onde se dança o tango e uma caminhada a uma típica fazenda da província de Buenos Aires, para saborear o tradicional churrasco. Nos últimos anos, novos circuitos temáticos surgiram, incluindo muitos dedicados a personalidades importantes como Carlos Gardel, Eva Perón ou Jorge Luis Borges. Possui também inúmeros shoppings (shoppings), entre os quais se destacam o Alto Palermo, o Paseo Alcorta, o Patio Bullrich, o Abasto de Buenos Aires e as Galerías Pacífico.",
+            "en":"The city of Buenos Aires is located on the banks of the Rio de la Plata, stands out as the favorite center of foreign and national tourists, they are attracted by a cosmopolitan city, of various contrasts and with extensive infrastructure. Among many other factors, tango is one of the reasons for visiting the Argentine capital.The characteristic Buenos Aires night is one of the great attractions due to its varied cultural, gastronomic and entertainment offer. Buenos Aires offers a wide cultural activity. Travelers generally choose a night visit to the places where tango is danced and a walk to a typical ranch in the province of Buenos Aires, to taste the traditional barbecue. In recent years, new thematic circuits have emerged, including many dedicated to important personalities such as Carlos Gardel, Eva Perón or Jorge Luis Borges. It also has numerous shopping malls (shopping malls), among which the Alto Palermo, Paseo Alcorta, Patio Bullrich, Abasto de Buenos Aires and Galerías Pacífico stand out.",
+            "it":"La città di Buenos Aires si trova sulle rive del Rio de la Plata, si distingue come il centro preferito di turisti stranieri e nazionali, sono attratti da una città cosmopolita, di vari contrasti e con ampie infrastrutture. Tra molti altri fattori, il tango è uno dei motivi per visitare la capitale argentina. La caratteristica notte di Buenos Aires è una delle grandi attrazioni per la sua variegata offerta culturale, gastronomica e di intrattenimento. Buenos Aires offre un'ampia attività culturale. I viaggiatori generalmente scelgono una visita notturna nei luoghi dove si balla il tango e una passeggiata in un tipico ranch della provincia di Buenos Aires, per gustare il tradizionale barbecue. Negli ultimi anni sono emersi nuovi circuiti tematici, tra cui molti dedicati a personalità importanti come Carlos Gardel, Eva Perón o Jorge Luis Borges. Ha anche numerosi centri commerciali (centri commerciali), tra cui spiccano l'Alto Palermo, Paseo Alcorta, Patio Bullrich, Abasto de Buenos Aires e Galerías Pacífico.",
+            "fr":"La ville de Buenos Aires est située sur les rives du Rio de la Plata, se distingue comme le centre de prédilection des touristes étrangers et nationaux, ils sont attirés par une ville cosmopolite, aux contrastes variés et aux infrastructures étendues. Parmi de nombreux autres facteurs, le tango est l'une des raisons de visiter la capitale argentine. La nuit caractéristique de Buenos Aires est l'une des grandes attractions en raison de son offre culturelle, gastronomique et de divertissement variée. Buenos Aires offre une large activité culturelle. Les voyageurs choisissent généralement une visite nocturne des lieux où l'on danse le tango et une promenade dans un ranch typique de la province de Buenos Aires, pour goûter au barbecue traditionnel. Ces dernières années, de nouveaux circuits thématiques ont vu le jour, dont de nombreux dédiés à des personnalités importantes telles que Carlos Gardel, Eva Perón ou Jorge Luis Borges. Il possède également de nombreux centres commerciaux (centres commerciaux), parmi lesquels se distinguent l'Alto Palermo, le Paseo Alcorta, le Patio Bullrich, l'Abasto de Buenos Aires et les Galerías Pacífico."
+        },
+        "mapa": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d26898749.23074599!2d-58.433298!3d-34.615824!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95bcca3b4ef90cbd%3A0xa0b3812e88e88e87!2sBuenos%20Aires!5e0!3m2!1sen!2sar!4v1633759624569!5m2!1sen!2sar",
+        "paquetes": 
+        [
+            {
+                "cod": 1,
+                "foto_1":"../media/destinos/dia4bsas.jpg",
+                "alt_1":"Puerto Madero",
+                "foto_2":"../media/destinos/dia3bsas.jpg",
+                "alt_2":"Caminito",
+                "foto_3":"../media/destinos/dia2bsas.jpg",
+                "alt_3":"Teatro colón",
+                "foto_4":"../media/destinos/dia1bsas.jpg",
+                "alt_4":"Obelisco"
+            },
+            {
+                "cod": 2,
+                "foto_1":"../media/destinos/dia4bsas.jpg",
+                "alt_1":"Puerto Madero",
+                "foto_2":"../media/destinos/dia3bsas.jpg",
+                "alt_2":"Caminito",
+                "foto_3":"",
+                "alt_3":"",
+                "foto_4":"",
+                "alt_4":""
+            },
+            {
+                "cod": 3,
+                "foto_1":"../media/destinos/dia4bsas.jpg",
+                "alt_1":"Puerto Madero",
+                "foto_2":"../media/destinos/dia3bsas.jpg",
+                "alt_2":"Caminito",
+                "foto_3":"",
+                "alt_3":"",
+                "foto_4":"",
+                "alt_4":""
+            },
+            {
+                "cod": 4,
+                "foto_1":"../media/destinos/dia4bsas.jpg",
+                "alt_1":"Puerto Madero",
+                "foto_2":"../media/destinos/dia3bsas.jpg",
+                "alt_2":"Caminito",
+                "foto_3":"",
+                "alt_3":"",
+                "foto_4":"",
+                "alt_4":""
+            },
+            {
+                "cod": 5,
+                "foto_1":"../media/destinos/dia4bsas.jpg",
+                "alt_1":"Puerto Madero",
+                "foto_2":"../media/destinos/dia3bsas.jpg",
+                "alt_2":"Caminito",
+                "foto_3":"",
+                "alt_3":"",
+                "foto_4":"",
+                "alt_4":""
+            },
+            {
+                "cod": 6,
+                "foto_1":"../media/destinos/dia4bsas.jpg",
+                "alt_1":"Puerto Madero",
+                "foto_2":"../media/destinos/dia3bsas.jpg",
+                "alt_2":"Caminito",
+                "foto_3":"",
+                "alt_3":"",
+                "foto_4":"",
+                "alt_4":""
+            },
+            {
+                "cod": 7,
+                "foto_1":"../media/destinos/dia4bsas.jpg",
+                "alt_1":"Puerto Madero",
+                "foto_2":"../media/destinos/dia3bsas.jpg",
+                "alt_2":"Caminito",
+                "foto_3":"",
+                "alt_3":"",
+                "foto_4":"",
+                "alt_4":""
+            },
+            {
+                "cod": 8,
+                "foto_1":"../media/destinos/dia4bsas.jpg",
+                "alt_1":"Puerto Madero",
+                "foto_2":"../media/destinos/dia3bsas.jpg",
+                "alt_2":"Caminito",
+                "foto_3":"",
+                "alt_3":"",
+                "foto_4":"",
+                "alt_4":""
+            }
+        ]
+    },
+
+    {
+        "codigo" : 2,
+        "titulo": "Buenos Aires",
+        "portada": "",
+        "alt_portada":"",
+        "texto":
+        {
+            "es":"",
+            "pt":"",
+            "en":"",
+            "it":"",
+            "fr":""
+        },
+        "mapa": "",
+        "paquetes": 
+        [
+            {
+                "cod": 1,
+                "foto_1":"",
+                "foto_2":"",
+                "foto_3":"",
+                "foto_4":""
+            }
+        ]
+    },
+
+    {
+        "codigo" : 3,
+        "titulo": "Buenos Aires",
+        "portada": 4,
+        "texto":
+        {
+            "es":"",
+            "pt":"",
+            "en":"",
+            "it":"",
+            "fr":""
+        },
+        "mapa": "",
+        "paquetes": 
+        [
+            {
+                "cod": 1,
+                "foto_1":"",
+                "foto_2":"",
+                "foto_3":"",
+                "foto_4":""
+            }
+        ]
+    },
+
+    {
+        "codigo" : 4,
+        "titulo": "Buenos Aires",
+        "portada": 4,
+        "texto":
+        {
+            "es":"",
+            "pt":"",
+            "en":"",
+            "it":"",
+            "fr":""
+        },
+        "mapa": "",
+        "paquetes": 
+        [
+            {
+                "cod": 1,
+                "foto_1":"",
+                "foto_2":"",
+                "foto_3":"",
+                "foto_4":""
+            }
+        ]
+    },
+
+    {
+        "codigo" : 5,
+        "titulo": "Buenos Aires",
+        "portada": 4,
+        "texto":
+        {
+            "es":"",
+            "pt":"",
+            "en":"",
+            "it":"",
+            "fr":""
+        },
+        "mapa": "",
+        "paquetes": 
+        [
+            {
+                "cod": 1,
+                "foto_1":"",
+                "foto_2":"",
+                "foto_3":"",
+                "foto_4":""
+            }
+        ]
+    },
+
+    {
+        "codigo" : 6,
+        "titulo": "Buenos Aires",
+        "portada": 4,
+        "texto":
+        {
+            "es":"",
+            "pt":"",
+            "en":"",
+            "it":"",
+            "fr":""
+        },
+        "mapa": "",
+        "paquetes": 
+        [
+            {
+                "cod": 1,
+                "foto_1":"",
+                "foto_2":"",
+                "foto_3":"",
+                "foto_4":""
+            }
+        ]
+    },
+
+    {
+        "codigo" : 7,
+        "titulo": "Buenos Aires",
+        "portada": 4,
+        "texto":
+        {
+            "es":"",
+            "pt":"",
+            "en":"",
+            "it":"",
+            "fr":""
+        },
+        "mapa": "",
+        "paquetes": 
+        [
+            {
+                "cod": 1,
+                "foto_1":"",
+                "foto_2":"",
+                "foto_3":"",
+                "foto_4":""
+            }
+        ]
+    },
+
+    {
+        "codigo" : 8,
+        "titulo": "Buenos Aires",
+        "portada": 4,
+        "texto":
+        {
+            "es":"",
+            "pt":"",
+            "en":"",
+            "it":"",
+            "fr":""
+        },
+        "mapa": "",
+        "paquetes": 
+        [
+            {
+                "cod": 1,
+                "foto_1":"",
+                "foto_2":"",
+                "foto_3":"",
+                "foto_4":""
+            }
+        ]
+    }
+    
+]

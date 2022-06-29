@@ -1,0 +1,1177 @@
+[
+    {
+        "id": 1,
+        "destino":
+        {
+            "es": "Excursiones en Buenos Aires",
+            "pt": "Excursões em Buenos Aires",
+            "en": "Excursions in Buenos Aires",
+            "it": "",
+            "fr": ""
+        },
+        "excursiones":
+        [
+            {
+                "codigo": 1,
+                "titulo":
+                {
+                    "es": "City Tour clásico",
+                    "pt": "Visita à cidade clássica",
+                    "en": "Classic City Tour",
+                    "it": "",
+                    "fr": ""
+                },
+                "url":"../media/tours/buenos-aires-city-tour.png",
+                "detalle": 
+                {
+                    "es": "Empezaremos nuestro tour por el centro de la ciudad donde están los atractivos más destacados, Av. 9 de Julio, el Teatro Colón, el Obelisco, Continuaremos hacia zona de Plaza de Mayo, para luego seguir hacia el sur de la ciudad, pasando por San Telmo, con sus tanguerías, el barrio de La Boca y Caminito. <br> Continuaremos por Puerto Madero, renovado puerto de la ciudad e importante zona gastronómica. <br> También visitaremos el principal pulmón verde de la ciudad, Palermo, con sus parques y edificios y por último Recoleta, un barrio donde conviven la cultura y la elegancia. <br> Los domingos finaliza en San Telmo para recorrer la feria de Antigüedades.",
+                    "pt": "Começaremos nosso passeio pelo centro da cidade onde estão as atrações mais destacadas, Av. 9 de Julio, o Teatro Colón, o Obelisco, continuaremos em direção à área da Plaza de Mayo e depois continuaremos ao sul da cidade, passando passando por San Telmo, com suas tanguerías, o bairro de La Boca e Caminito. <br> Continuaremos por Puerto Madero, um porto renovado da cidade e uma importante área gastronômica. <br> Visitaremos também o principal pulmão verde da cidade, Palermo, com seus parques e prédios e, finalmente, Recoleta, um bairro onde coexistem cultura e elegância.",
+                    "en": "We will start our tour through the center of the city where the most outstanding attractions are, Av. 9 de Julio, the Teatro Colón, the Obelisk, we will continue towards the Plaza de Mayo area, and then continue south of the city, passing through San Telmo, with its tanguerías, the neighborhood of La Boca and Caminito. <br> We will continue through Puerto Madero, a renovated port of the city and an important gastronomic area. <br> We will also visit the main green lung of the city, Palermo, with its parks and buildings and finally Recoleta, a neighborhood where culture and elegance coexist. <br> On Sundays it ends in San Telmo to tour the Antiques fair",
+                    "it": "",
+                    "fr": ""
+                }       
+            },
+            {
+                "codigo": 2,
+                "titulo":
+                {
+                    "es": "Cena y show de Tango",
+                    "pt": "Jantar e show de tango",
+                    "en": "Dinner and Tango show",
+                    "it": "",
+                    "fr": ""
+                },
+                "url":"../media/tours/buenos-aires-cena-tango-show.jpg",
+                "detalle": 
+                {
+                    "es": "Espectáculo de tango con música en vivo, acompañados de una exquisita cena con platos típicos e internacionales.",
+                    "pt": "Show de tango com música ao vivo, acompanhado de um jantar requintado com pratos típicos e internacionais.",
+                    "en": "Tango show with live music, accompanied by an exquisite dinner with typical and international dishes",
+                    "it": "",
+                    "fr": ""
+                }       
+            },
+            {
+                "codigo": 3,
+                "titulo":
+                {
+                    "es": "Tigre y delta Premium",
+                    "pt": "Tigre e Delta Premium",
+                    "en": "Tigre and Delta Premium",
+                    "it": "",
+                    "fr": ""
+                },
+                "url":"../media/tours/buenos-aires-tours-tigre.jpg",
+                "detalle": 
+                {
+                    "es": "Salimos desde Buenos Aires, visitamos San Isidro, y al llegar al Delta nos embarcamos para descubrir nuevos horizontes. En el recorrido veremos los accesos a los clubes náuticos a la vera del río Luján; las sorprendentes casas y mansiones ubicadas en las barrancas y sus magníficas vistas del estuario de la plata. Entre las principales referencias ubicadas en la costa destacamos la Catedral de San Isidro; el Puerto de Olivos; el estadio Monumental de River; la Ciudad Universitaria de Buenos Aires.",
+                    "pt": "Saímos de Buenos Aires, visitamos San Isidro e ao chegar ao Delta embarcamos para descobrir novos horizontes. No passeio veremos os acessos aos clubes náuticos nas margens do rio Luján; as incríveis casas e casarões localizados nas ravinas e suas magníficas vistas do estuário de La Plata. Entre as principais referências localizadas no litoral destacamos a Catedral de San Isidro; o Porto de Olivos; o Estádio Monumental do Rio; a Cidade Universitária de Buenos Aires",
+                    "en": "We left from Buenos Aires, we visited San Isidro, and when we arrived at the Delta we embarked to discover new horizons. On the tour we will see the accesses to the nautical clubs on the banks of the Luján River; the surprising houses and mansions located in the ravines and its magnificent views of the La Plata estuary. Among the main references located on the coast we highlight the Cathedral of San Isidro; the Port of Olivos; the River Monumental Stadium; the University City of Buenos Aires",
+                    "it": "",
+                    "fr": ""
+                }       
+            },
+            {
+                "codigo": 4,
+                "titulo":
+                {
+                    "es": "City tour con teatro Colon",
+                    "pt": "City tour com teatro Colon",
+                    "en": "City tour with Colon theater",
+                    "it": "",
+                    "fr": ""
+                },
+                "url":"../media/tours/buenos-aires-teatro-colon.jpg",
+                "detalle": 
+                {
+                    "es": "Comenzaremos el recorrido por el barrio de Palermo, donde podremos apreciar sus parques y edificios. Seguiremos por Recoleta, donde visitaremos el monumento de Evita; luego nos dirigiremos al centro de la ciudad donde están los atractivos más destacados, Av. 9 de Julio, el Teatro Colon, el Obelisco “símbolo de Buenos Aires”. Continuaremos hacia la zona de Plaza de Mayo, para luego seguir hacia el sur de la ciudad. Visitaremos San Telmo, con sus tanguerías, el barrio de La Boca y Caminito. Finalmente llegaremos a Puerto Madero, renovado puerto de la ciudad e importante zona gastronómica.   Visitaremos: El Teatro Colón, principal sala lírica del mundo, por su acústica, sus artistas. El Cementerio de Recoleta: un paseo por nuestra historia, con bóvedas y sepulcros de los próceres y seres más destacados.",
+                    "pt": "Começaremos o passeio pelo bairro de Palermo, onde poderemos apreciar seus parques e edifícios. Continuaremos pela Recoleta, onde visitaremos o monumento de Evita; depois iremos ao centro da cidade onde estão as atrações mais destacadas, Av. 9 de Julio, o Teatro Colón, o Obelisco . Continuaremos em direção à área da Plaza de Mayo e depois continuaremos em direção ao sul da cidade. Visitaremos San Telmo, com suas tanguerías, o bairro de La Boca e Caminito. Finalmente chegaremos a Puerto Madero, um porto renovado da cidade e uma importante área gastronômica. Visitaremos: O Teatro Colón, a principal sala lírica do mundo, por sua acústica, seus artistas. O Cemitério da Recoleta: um passeio pela nossa história, com abóbadas e túmulos dos mais destacados heróis e seres.",
+                    "en": "We will begin the tour through the Palermo neighborhood, where we will be able to appreciate its parks and buildings. We will continue through Recoleta, where we will visit the monument of Evita; then we will go to the center of the city where the most outstanding attractions are, Av. 9 de Julio, the Teatro Colon, the Obelisk (symbol of Buenos Aires). We will continue towards the Plaza de Mayo area, and then continue towards the south of the city. We will visit San Telmo, with its tanguerías, the neighborhood of La Boca and Caminito. Finally we will arrive at Puerto Madero, a renovated port of the city and an important gastronomic area. We will visit: The Teatro Colón, the main lyrical hall in the world, for its acoustics, its artists. The Recoleta Cemetery: a walk through our history, with vaults and tombs of the most outstanding heroes and beings",
+                    "it": "",
+                    "fr": ""
+                }       
+            },
+            {
+                "codigo": 5,
+                "titulo":
+                {
+                    "es": "Tour por los estadios",
+                    "pt": "Passeio pelos estádios",
+                    "en": "Tour of the stadiums",
+                    "it": "",
+                    "fr": ""
+                },
+                "url":"../media/tours/buenos-aires-tours-estadios.jpg",
+                "detalle": 
+                {
+                    "es": "En este tour nos adentraremos en la historia del fútbol argentino recorriendo los dos estadios de fútbol más famosos del país, el del Boca Juniors, La Bombonera, y el del River Plate, el Monumental. <br> En primer lugar nos dirigiremos hacia el sur de Buenos Aires para visitar La Bombonera, el estadio del Boca Juniors, ubicado en el barrio de La Boca.  <br> Dentro del estadio visitaremos las localidades preferentes, el sector popular donde se ubica la famosa 12. <br> En el mismo estadio se encuentra el Museo de la Pasión Boquense. Por la tarde nos dirigiremos al norte de Buenos Aires para visitar el nuevo estadio del River Plate, en el barrio de Belgrano daremos una vuelta al estadio, veremos el club Tiro Federal y la puerta de acceso al Museo River Plate, el más moderno de Argentina.",
+                    "pt": "Neste passeio vamos mergulhar na história do futebol argentino percorrendo os dois estádios de futebol mais famosos do país, Boca Juniors, La Bombonera e River Plate, Monumental. <br> Antes de tudo, iremos ao sul de Buenos Aires para visitar La Bombonera, o estádio do Boca Juniors, localizado no bairro de La Boca. <br> Dentro do estádio, visitaremos os locais preferidos, o setor popular onde está localizado o famoso 12. <br> No mesmo estádio está o Museo de la Pasión Boquense. À tarde iremos ao norte de Buenos Aires para visitar o novo estádio do River Plate, no bairro de Belgrano daremos a volta ao estádio, veremos o clube Tiro Federal e a porta de acesso ao Museu do River Plate, o mais moderno na Argentina.",
+                    "en": "On this tour we will delve into the history of Argentine soccer touring the two most famous soccer stadiums in the country, Boca Juniors, La Bombonera, and River Plate, Monumental. <br> First of all, we will go to the south of Buenos Aires to visit La Bombonera, the Boca Juniors stadium, located in the neighborhood of La Boca. <br> Inside the stadium we will visit the preferred locations, the popular sector where the famous 12 is located. <br> In the same stadium is the Museo de la Pasión Boquense. In the afternoon we will go to the north of Buenos Aires to visit the new River Plate stadium, in the Belgrano neighborhood we will go around the stadium, we will see the Tiro Federal club and the access door to the River Plate Museum, the most modern in Argentina.",
+                    "it": "",
+                    "fr": ""
+                }       
+            },
+            {
+                "codigo": 6,
+                "titulo":
+                {
+                    "es": "Fiesta Gaucha en estancia",
+                    "pt": "Festa gaúcha na estância",
+                    "en": "Gaucha party in estancia",
+                    "it": "",
+                    "fr": ""
+                },
+                "url":"../media/tours/buenos-aires-fiesta-gaucha.jpg",
+                "detalle": 
+                {
+                    "es": "Esta excursión nos permitirá conocer una típica estancia de las pampas argentinas. Disfrutaremos de un típico asado y vinos argentinos. Durante el almuerzo podremos apreciar un show de folklore y destreza con boleadoras. Podremos presenciar también una demostración de destreza gauchesca de carreras de sortija. Tendremos tiempo libre para realizar actividades como paseos a caballo o en carruaje (sulky).",
+                    "pt": "Esta excursão nos permitirá conhecer uma fazenda típica dos pampas argentinos. Desfrutaremos de um típico churrasco e vinhos argentinos. Durante o almoço poderemos apreciar um show de folclore e habilidade com boleadoras. Também poderemos presenciar uma demonstração de habilidades gaúchas de corridas de ringue. Teremos tempo livre para fazer atividades como cavalgadas ou passeios de carruagem (sulky)",
+                    "en": "This excursion will allow us to get to know a typical ranch in the Argentine pampas. We will enjoy a typical barbecue and Argentine wines. During lunch we will be able to appreciate a show of folklore and skill with boleadoras. We will also be able to witness a demonstration of gaucho skills of ring races. We will have free time to do activities such as horseback riding or carriage rides (sulky)",
+                    "it": "",
+                    "fr": ""
+                }       
+            },
+            {
+                "codigo": 7,
+                "titulo":
+                {
+                    "es": "Tour en bicicleta por la ciudad",
+                    "pt": "Passeio de bicicleta pela cidade",
+                    "en": "City bike tour",
+                    "it": "",
+                    "fr": ""
+                },
+                "url":"../media/tours/buenos-aires-tours-bicicleta.jpg",
+                "detalle": 
+                {
+                    "es": "Sur: Un asombroso paseo alrededor del área más antigua de la ciudad. Exploramos las zonas donde nació Buenos Aires. Un paseo repleto de sitios de interés histórico, que incluye los barrios de clase obrera y el lugar donde nació el Tango: Caminito. <br>  Algunos lugares incluyen Plaza de Mayo,  el estadio de Boca Juniors, San Telmo, Caminito y Costanera Sur.  <br> Norte: Un magnífico paseo alrededor de las áreas más ricas de Buenos Aires y sus hermosos parques, incluyendo una visita al Cementerio de Recoleta. Exploraremos las zonas donde se estableció la aristocracia y construyó sus imponentes edificios y palacios. Algunos lugares incluyen Avenida de Mayo, Plaza San Martín, la Floralis Genérica y Palermo.",
+                    "pt": "Sul: Um passeio incrível pela zona mais antiga da cidade. Exploramos as áreas onde nasceu Buenos Aires. Um passeio repleto de lugares de interesse histórico, que inclui os bairros populares e o lugar onde nasceu o Tango: Caminito. <br> Alguns lugares incluem a Plaza de Mayo, o estádio do Boca Juniors, San Telmo, Caminito e Costanera Sur. <br> Norte: Um magnífico passeio pelas áreas mais ricas de Buenos Aires e seus belos parques, incluindo uma visita ao Cemitério da Recoleta. Vamos explorar as áreas onde a aristocracia se instalou e construiu seus imponentes edifícios e palácios. Alguns lugares incluem Avenida de Mayo, Plaza San Martin, Floralis Generica e Palermo.",
+                    "en": "South: An amazing walk around the oldest area of ​​the city. We explore the areas where Buenos Aires was born. A walk full of places of historical interest, which includes the working class neighborhoods and the place where Tango was born: Caminito. <br> Some places include Plaza de Mayo, the Boca Juniors stadium, San Telmo, Caminito and Costanera Sur. <br> North: A magnificent walk around the wealthiest areas of Buenos Aires and its beautiful parks, including a visit to the Recoleta Cemetery. We will explore the areas where the aristocracy settled and built their imposing buildings and palaces. Some places include Avenida de Mayo, Plaza San Martin, the Floralis Generica and Palermo",
+                    "it": "",
+                    "fr": ""
+                }       
+            },
+            {
+                "codigo": 8,
+                "titulo":
+                {
+                    "es": "Degustación de vinos",
+                    "pt": "Degustação de vinho",
+                    "en": "Wine tasting",
+                    "it": "",
+                    "fr": ""
+                },
+                "url":"../media/tours/buenos-aires-degustacion-vino.jpg",
+                "detalle": 
+                {
+                    "es": "Una experiencia para conocer los famosos vinos de Argentina, con enólogo bilingüe experto, regiones, proceso de elaboración. Degustarán Malbec, Cabernet Sauvignon y Torrontés con snacks típicos, traslado.",
+                    "pt": "Uma experiência para conhecer os famosos vinhos da Argentina, com um enólogo bilíngue especializado, regiões, processo de produção. Provarão Malbec, Cabernet Sauvignon e Torrontés com petiscos típicos, transfer",
+                    "en": "An experience to get to know the famous wines of Argentina, with an expert bilingual winemaker, regions, production process. They will taste Malbec, Cabernet Sauvignon and Torrontés with typical snacks, transfer",
+                    "it": "",
+                    "fr": ""
+                }       
+            }
+        ]    
+    },
+    
+    
+
+
+
+
+
+    {
+        "id": 2,
+        "destino":
+        {
+            "es": "Excursiones en Iguazú",
+            "pt": "Excursões em Iguazú",
+            "en": "Excursions in Iguazu",
+            "it": "",
+            "fr": ""
+        },
+        "excursiones":
+        [
+            {
+                "codigo": 1,
+                "titulo":
+                {
+                    "es": "Cataratas de Iguazú, lado argentino",
+                    "pt": "Cataratas do Iguaçu, lado argentino",
+                    "en": "Iguazú Falls, Argentine side",
+                    "it": "",
+                    "fr": ""
+                },
+                "url":"../media/tours/iguazu-lado-argentino.jpg",
+                "detalle": 
+                {
+                    "es": "Arribaremos al Parque Nacional Iguazú del lado argentino, creado para proteger el marco paisajístico de las Cataratas del Iguazú, un conjunto de 275 saltos de agua, rodeados de espesa selva subtropical con una muy importante biodiversidad <br>. Recorreremos 1200 metros de pasarelas entre islotes y exuberante vegetación hasta el Balcón de la Garganta del Diablo para disfrutar de este imponente salto de 150 metros de longitud y 80 metros de altura, cuya potente caída de agua rodeada de densa bruma lo convierten sin dudas en una de las maravillas naturales del mundo.",
+                    "pt": "Chegaremos ao Parque Nacional do Iguaçu do lado argentino, criado para proteger a paisagem das Cataratas do Iguaçu, um conjunto de 275 cachoeiras, cercado por densa selva subtropical com uma biodiversidade muito importante <br>. Percorreremos 1.200 metros de passarelas entre ilhotas e vegetação exuberante até a Varanda da Garganta do Diabo para desfrutar desta impressionante cachoeira, com 150 metros de comprimento e 80 metros de altura, cuja poderosa queda d'água cercada por densa neblina a torna sem dúvida uma das maravilhas naturais do mundo.",
+                    "en": "We will arrive at the Iguazú National Park on the Argentine side, created to protect the landscape of the Iguazú Falls, a set of 275 waterfalls, surrounded by thick subtropical jungle with a very important biodiversity <br>. We will travel 1,200 meters of footbridges between islets and exuberant vegetation to the Balcony of the Devil's Throat to enjoy this impressive waterfall, 150 meters long and 80 meters high, whose powerful waterfall surrounded by dense mist makes it undoubtedly a of the natural wonders of the world",
+                    "it": "",
+                    "fr": ""
+                }       
+            },
+
+            {
+                "codigo": 2,
+                "titulo":
+                {
+                    "es": "Cataratas del Iguazú, lado brasilero",
+                    "pt": "Cataratas do Iguaçu, lado brasileiro",
+                    "en": "Iguazú Falls, Brazilian side",
+                    "it": "",
+                    "fr": ""
+                },
+                "url":"../media/tours/iguazu-lado-brasilero.jpg",
+                "detalle": 
+                {
+                    "es": "Las Cataratas del lado brasilero están ubicadas a 28 km. de la ciudad de Foz do Iguaçú. Desde los miradores y pasarelas del Parque Nacional do Iguaçú se puede apreciar una vista de casi la totalidad de los saltos. Además de impresionante un acercamiento a la Garganta del Diablo. <br> De lado brasileño hay una sola pasarela, que se puede realizar sin dificultad, la misma finaliza en el mirador de la Garganta del Diablo.",
+                    "pt": "As Cataratas do lado brasileiro estão localizadas a 28 km. da cidade de Foz do Iguaçu. Dos mirantes e passarelas do Parque Nacional do Iguaçu é possível avistar quase todas as cachoeiras. Além de uma abordagem impressionante para a Garganta do Diabo. <br> Do lado brasileiro há apenas uma passarela, que pode ser feita sem dificuldade, termina no mirante da Garganta do Diabo.",
+                    "en": "The Falls on the Brazilian side are located 28 km. from the city of Foz do Iguaçu. From the viewpoints and walkways of the Parque Nacional do Iguaçú you can see a view of almost all of the waterfalls. In addition to impressive an approach to the Devil's Throat. <br> On the Brazilian side there is only one walkway, which can be done without difficulty, it ends at the Garganta del Diablo viewpoint",
+                    "it": "",
+                    "fr": ""
+                }       
+            },
+
+            {
+                "codigo": 3,
+                "titulo":
+                {
+                    "es": "Gran aventura",
+                    "pt": "Grande aventura",
+                    "en": "Great adventure",
+                    "it": "",
+                    "fr": ""
+                },
+                "url":"../media/tours/iguazu-gran-aventura.jpg",
+                "detalle": 
+                {
+                    "es": "La Gran Aventura comienza dentro del Parque Nacional Iguazú. Una vez ahí, subirás a una camioneta 4x4 que te adentrará en las profundidades de la selva misionera a lo largo de 5 kilómetros, por los senderos Yacaratiá y Puerto Macuco. <br> El tour continuará con un descenso de 100 metros para embarcar en el gomón semi-rigido que te llevará a recorrer 6 kilómetros del Rio Iguazú; acercándote a los pies de la majestuosa Garganta del Diablo. Vas a conocer de manera diferente este impresionante monumento natural.",
+                    "pt": "A Grande Aventura começa dentro do Parque Nacional do Iguaçu. Uma vez lá, você embarcará em um caminhão 4x4 que o levará às profundezas da selva de Misiones por 5 quilômetros, pelas trilhas de Yacaratiá e Puerto Macuco. <br> O passeio continuará com uma descida de 100 metros para embarcar no barco de borracha semi-rígido que o levará a percorrer 6 quilômetros do Rio Iguazú; aproximando-se do pé da majestosa Garganta do Diabo. Você conhecerá este impressionante monumento natural de uma maneira diferente.",
+                    "en": "The Great Adventure begins inside the Iguazú National Park. Once there, you will board a 4x4 truck that will take you into the depths of the Misiones jungle for 5 kilometers, along the Yacaratiá and Puerto Macuco trails. <br> The tour will continue with a descent of 100 meters to embark on the semi-rigid rubber boat that will take you to travel 6 kilometers of the Iguazú River; approaching the foot of the majestic Devil's Throat. You will get to know this impressive natural monument in a different way",
+                    "it": "",
+                    "fr": ""
+                }       
+            },
+
+            {
+                "codigo": 4,
+                "titulo":
+                {
+                    "es": "Saltos del mocona",
+                    "pt": "Saltos da mocona",
+                    "en": "Jumps of the mocona",
+                    "it": "",
+                    "fr": ""
+                },
+                "url":"../media/tours/iguazu-saltos-mocona.jpg",
+                "detalle": 
+                {
+                    "es": "El Moconá es una falla geológica, única en su tipo en el mundo, donde confluyen los ríos Yabotí, Pepirí Guazú, Uruguay, Serapio y Calixto. <br> Estas caídas alcanzan los 25 metros. de altura y una profundidad de 115 metros. <br> Toda la zona del Salto del Moconá está catalogada como Parque Provincial. Los paseos acuáticos son organizados por los barqueros del parque",
+                    "pt": "O Moconá é uma falha geológica, a única do gênero no mundo, onde se encontram os rios Yabotí, Pepirí Guazú, Uruguai, Serapio e Calixto. <br> Essas quedas chegam a 25 metros. altura e uma profundidade de 115 metros. <br> Toda a área das Cataratas do Moconá é categorizada como Parque Provincial. Os passeios aquáticos são organizados pelos barqueiros do parque.",
+                    "en": "The Moconá is a geological fault, unique in its kind in the world, where the Yabotí, Pepirí Guazú, Uruguay, Serapio and Calixto rivers converge. <br> These falls reach 25 meters. high and a depth of 115 meters. <br> The entire Salto del Moconá area is classified as a Provincial Park. Water rides are organized by the park's boatmen",
+                    "it": "",
+                    "fr": ""
+                }       
+            },
+
+            {
+                "codigo": 5,
+                "titulo":
+                {
+                    "es": "Parque de las aves",
+                    "pt": "Parque de pássaros",
+                    "en": "Bird park",
+                    "it": "",
+                    "fr": ""
+                },
+                "url":"../media/tours/iguazu-parque-aves.jpg",
+                "detalle": 
+                {
+                    "es": "Visitaremos este parque de 16 hectáreas donde se exponen y preservan aves tropicales exóticas y multicolores.  <br> Actualmente este parque cuenta con más de 900 aves de aproximadamente 150 especies, originarias de Sudamérica y de otros continentes, muchas de ellas consideradas en peligro de extinción. Además, es posible observar yacarés, serpientes, monos, peces y mariposas de vivos colores.",
+                    "pt": "Visitaremos este parque de 16 hectares onde são expostas e preservadas aves tropicais exóticas e multicoloridas. <br> Atualmente este parque conta com mais de 900 aves de aproximadamente 150 espécies, originárias da América do Sul e de outros continentes, muitas delas consideradas em perigo de extinção. Além disso, é possível observar jacarés, cobras, macacos, peixes e borboletas de cores vivas.",
+                    "en": "We will visit this 16-hectare park where exotic and multicolored tropical birds are exhibited and preserved. <br> Currently this park has more than 900 birds of approximately 150 species, originating from South America and other continents, many of them considered in danger of extinction. In addition, it is possible to observe alligators, snakes, monkeys, fish and butterflies of bright colors.",
+                    "it": "",
+                    "fr": ""
+                }       
+            }
+        ]    
+    },
+
+
+
+
+
+
+
+    {
+        "id": 3,
+        "destino":
+        {
+            "es": "Excursiones en Mendoza",
+            "pt": "Passeios em Mendoza",
+            "en": "Excursions in Mendoza",
+            "it": "",
+            "fr": ""
+        },
+        "excursiones":
+        [
+            {
+                "codigo": 1,
+                "titulo":
+                {
+                    "es": "City tour",
+                    "pt": "Passeios pela cidade",
+                    "en": "City tour",
+                    "it": "",
+                    "fr": ""
+                },
+                "url":"../media/tours/mendoza-city-tour.jpg",
+                "detalle": 
+                {
+                    "es": "Esta excursión nos permitirá conocer la Ciudad de Mendoza, una de las más bellas del país. Comenzaremos por la ciudad antigua, sitio donde fuera fundada; pasaremos por la alameda, el microcentro, el Barrio Cívico para dirigirnos luego al Parque General San Martín con el Cerro de la Gloria, estadio mundialista y el anfiteatro griego Frank Romero Day, escenario del acto central de la Fiesta Nacional de la Vendimia.",
+                    "pt": "Esta excursão nos permitirá conhecer a cidade de Mendoza, uma das mais belas do país. Começaremos pela cidade antiga, local onde foi fundada; Passaremos pela alameda, o centro da cidade, o Bairro Cívico para depois ir ao Parque General San Martín com o Cerro de la Gloria, estádio da Copa do Mundo e o anfiteatro grego Frank Romero Day, palco do ato central da Festa Nacional da Colheita",
+                    "en": "This excursion will allow us to get to know the City of Mendoza, one of the most beautiful in the country. We will start with the ancient city, the place where it was founded; We will pass through the alameda, the downtown, the Civic District to then go to the General San Martín Park with the Cerro de la Gloria, World Cup stadium and the Frank Romero Day Greek amphitheater, scene of the central act of the National Harvest Festival.",
+                    "it": "",
+                    "fr": ""
+                }       
+            },
+
+            {
+                "codigo": 2,
+                "titulo":
+                {
+                    "es": "Visita a las bodegas",
+                    "pt": "Visita às vinícolas",
+                    "en": "Visit to the wineries",
+                    "it": "",
+                    "fr": ""
+                },
+                "url":"../media/tours/mendoza-bodegas.jpg",
+                "detalle": 
+                {
+                    "es": "Mendoza es una de las regiones vitivinícolas más grandes del mundo. Con más de 1.500 bodegas distribuidas en tres terruños - Luján de Cuyo, Valle de Uco y Maipú. Visitaremos importantes y tradicionales establecimientos vitivinícolas donde tendremos oportunidad de degustar sus exquisitos productos. Para los más aventureros, otra alternativa es hacer las visitas en ciclismo.",
+                    "pt": "Mendoza é uma das maiores regiões vinícolas do mundo. Com mais de 1.500 vinícolas distribuídas em três terroirs - Luján de Cuyo, Valle de Uco e Maipú. Visitaremos importantes e tradicionais estabelecimentos vitivinícolas onde teremos a oportunidade de provar os seus requintados produtos. Para os mais aventureiros, outra alternativa é a visita de bicicleta.",
+                    "en": "Mendoza is one of the largest wine regions in the world. With more than 1,500 wineries distributed in three terroirs - Luján de Cuyo, Valle de Uco and Maipú. We will visit important and traditional wine establishments where we will have the opportunity to taste their exquisite products. For the more adventurous, another alternative is to do the visits by bicycle.",
+                    "it": "",
+                    "fr": ""
+                }       
+            },
+
+            {
+                "codigo": 3,
+                "titulo":
+                {
+                    "es": "Alta Montaña y Puente del Inca",
+                    "pt": "Alta Montanha e Ponte Inca",
+                    "en": "High Mountain and Inca Bridge",
+                    "it": "",
+                    "fr": ""
+                },
+                "url":"../media/tours/mendoza-alta-montaña.jpg",
+                "detalle": 
+                {
+                    "es": "Esta es una experiencia paisajística que recorre distintos puntos como el dique Potrerillos, Uspallata, villa Los Penitentes donde según la época del año se puede acceder a través de aerosillas para tener una vista panorámica de la zona. Siguiendo con el recorrido, también se visita el Puente del Inca con el Rio Las Cuevas, la entrada al Parque Provincial Aconcagua y el monumento al Cristo Redentor.",
+                    "pt": "Esta é uma experiência paisagística que percorre diferentes pontos como a barragem de Potrerillos, Uspallata, a aldeia de Los Penitentes onde, dependendo da época do ano, pode ser acessado através de teleféricos para ter uma vista panorâmica da área. Continuando com o passeio, você também visitará a Ponte Inca com o Rio Las Cuevas, a entrada do Parque Provincial Aconcagua e o monumento ao Cristo Redentor.",
+                    "en": "This is a landscape experience that runs through different points such as the Potrerillos dam, Uspallata, Los Penitentes village where, depending on the time of year, it can be accessed through chairlifts to have a panoramic view of the area. Continuing with the tour, you will also visit the Inca Bridge with the Las Cuevas River, the entrance to the Aconcagua Provincial Park and the monument to Christ the Redeemer.",
+                    "it": "",
+                    "fr": ""
+                }       
+            },
+
+            {
+                "codigo": 4,
+                "titulo":
+                {
+                    "es": "Cañón del atuel",
+                    "pt": "Canyon atuel",
+                    "en": "Atuel canyon",
+                    "it": "",
+                    "fr": ""
+                },
+                "url":"../media/tours/mendoza-cañon-atuel.jpg",
+                "detalle": 
+                {
+                    "es": "La visita del Cañón del Atuel, es uno de los circuitos más solicitados por los turistas. El Río Atuel, con sus centrales hidroeléctricas; el Embalse del Valle Grande con la famosa Garganta del Diablo y las Dunas de El Nihuil, son los escenarios perfectos para realizar actividades recreativas-deportivas como el rafting, kayak, motonáutica, paseos en catamarán, windsurf, pesca, cabalgatas, mountain bike, travesías en moto o 4x4, trekking, escalada, rappel, tirolesa entre otros o el avistamiento de aves y flora autóctona.",
+                    "pt": "A visita ao Cânion do Atuel é um dos circuitos mais solicitados pelos turistas. O Rio Atuel, com suas hidrelétricas; a represa do Valle Grande com a famosa Garganta do Diabo e as Dunas de El Nihuil, são os cenários perfeitos para atividades recreativas e esportivas como rafting, caiaque, barco a motor, passeios de catamarã, windsurf, pesca, cavalgadas, mountain bike, de moto ou 4x4 , trekking, escalada, rapel, tirolesa, entre outros, ou observação de aves e flora nativa.",
+                    "en": "The visit to the Atuel Canyon is one of the most requested circuits by tourists. The Atuel River, with its hydroelectric plants; the Valle Grande Reservoir with the famous Devil's Throat and the El Nihuil Dunes, are the perfect settings for recreational-sports activities such as rafting, kayaking, motor boating, catamaran rides, windsurfing, fishing, horseback riding, mountain biking, by motorcycle or 4x4, trekking, climbing, rappelling, zip line among others or bird watching and native flora",
+                    "it": "",
+                    "fr": ""
+                }       
+            }
+        ]    
+    },
+
+
+
+
+
+
+
+    {
+        "id": 4,
+        "destino":
+        {
+            "es": "Excursiones en Bariloche",
+            "pt": "Passeios em Bariloche",
+            "en": "Excursions in Bariloche",
+            "it": "",
+            "fr": ""
+        },
+        "excursiones":
+        [
+            {
+                "codigo": 1,
+                "titulo":
+                {
+                    "es": "Isla victoria y Bosque de arrayanes",
+                    "pt": "Ilha Victoria e Floresta de Arrayanes",
+                    "en": "Victoria Island and Arrayanes Forest",
+                    "it": "",
+                    "fr": ""
+                },
+                "url":"../media/tours/bariloche-isla-victoria.jpg",
+                "detalle": 
+                {
+                    "es": "Partiendo desde Puerto Pañuelo, tras una hora de navegación, se arriba a la península de Quetrihue, en donde se encuentra el legendario bosque de arrayanes. Ubicado dentro del Parque Nacional Los Arrayanes. <br> Luego de recorrer este escenario incomparable, se navega hacia Puerto Anchorena, en la Isla Victoria, donde encontrarás una flora de gran atractivo visual. Recorriendo los senderos de esta hermosa isla se llega hasta Playa del Toro, en donde se pueden observar las pinturas rupestres hechas por los pueblos originarios que habitaban en esta zona.",
+                    "pt": "Saindo de Puerto Pañuelo, depois de uma hora de navegação, chega-se à península de Quetrihue, onde se encontra o lendário bosque de murtas. Localizado dentro do Parque Nacional Los Arrayanes. <br> Depois de percorrer este cenário incomparável, você navega para Puerto Anchorena, na Ilha Victoria, onde encontrará uma flora de grande apelo visual. Percorrendo os caminhos desta bela ilha, você chega à Playa del Toro, onde você pode ver as pinturas rupestres feitas pelos povos originários que viveram nesta área.",
+                    "en": "Departing from Puerto Pañuelo, after an hour of sailing, you arrive at the Quetrihue peninsula, where the legendary myrtle forest is found. Located within the Los Arrayanes National Park. <br> After touring this incomparable setting, you sail to Puerto Anchorena, on Victoria Island, where you will find a flora of great visual appeal. Walking the paths of this beautiful island, you reach Playa del Toro, where you can see the cave paintings made by the original peoples who lived in this area.",
+                    "it": "",
+                    "fr": ""
+                }       
+            },
+
+            {
+                "codigo": 2,
+                "titulo":
+                {
+                    "es": "Puerto Blest y Cascada de los Cántaros",
+                    "pt": "Puerto Blest e Cascada de los Cántaros",
+                    "en": "Puerto Blest and Cascada de los Cántaros",
+                    "it": "",
+                    "fr": ""
+                },
+                "url":"../media/tours/bariloche-puerto-blest.jpg",
+                "detalle": 
+                {
+                    "es": "Partiendo desde Puerto Pañuelo, tras una hora de navegación, se pasa junto a la Isla Centinela. De allí la navegación continúa hasta arribar a la Cascada de los Cántaros. <br> Se navegará apenas cinco minutos más para llegar finalmente a Puerto Blest, el lugar que ha maravillado durante años a los turistas que lo visitan desde los más diversos países del mundo. Podrá visitar desde allí la bahía y conocer las márgenes del Lago Frias, cuyas peculiares aguas verdes, provienen de uno de los glaciares del Cerro Tronador, límite natural entre Argentina y Chile.",
+                    "pt": "Partindo de Puerto Pañuelo, após uma hora de navegação, você passará pela Ilha Sentinela. A partir daí a navegação continua até chegar à Cascada de los Cántaros. <br> Você navegará apenas mais cinco minutos para finalmente chegar a Puerto Blest, o lugar que há anos surpreende os turistas que o visitam dos mais diversos países do mundo. De lá você pode visitar a baía e conhecer as margens do Lago Frias, cujas peculiares águas verdes vêm de uma das geleiras do Cerro Tronador, fronteira natural entre Argentina e Chile.",
+                    "en": "Departing from Puerto Pañuelo, after an hour of sailing, you will pass by the Sentinel Island. From there the navigation continues until arriving at the Cascada de los Cántaros. <br> You will sail just five more minutes to finally reach Puerto Blest, the place that has amazed tourists for years who visit it from the most diverse countries in the world. You can visit the bay from there and get to know the banks of Lake Frias, whose peculiar green waters come from one of the glaciers of Cerro Tronador, the natural border between Argentina and Chile.",
+                    "it": "",
+                    "fr": ""
+                }       
+            },
+
+            {
+                "codigo": 3,
+                "titulo":
+                {
+                    "es": "Circuito chico",
+                    "pt": "Pequeno circuito",
+                    "en": "Small circuit",
+                    "it": "",
+                    "fr": ""
+                },
+                "url":"../media/tours/bariloche-circuito-chico.jpg",
+                "detalle": 
+                {
+                    "es": "El circuito chico es un recorrido de medio día permite conocer la ciudad y sus alrededores; consiste en visitar distintos puntos de la ciudad de Bariloche.<br> Luego de recorrer la península, se arriba a la Villa Llao Llao, en el km 23. Allí encontrarás un mirador excepcional y otros grandes atractivos de la zona: el Hotel Llao Llao, con su imponente marco natural. Muy cerca de ese lugar se encuentra Puerto Pañuelo, punto de partida de las excursiones lacustres. Nos detendremos en Cerro Campanario para subir con aerosillas hasta la cumbre y disfrutar de la mejor vista panorámica de la región, de 360 grados. <br> Desde este lugar parte un desvío que permite continuar hacia la zona de Bahía López.",
+                    "pt": "O pequeno circuito é um passeio de meio dia que permite conhecer a cidade e seus arredores; Consiste em visitar diferentes pontos da cidade de Bariloche.<br> Depois de percorrer a península, chega-se à Villa Llao Llao, no km 23. Lá você encontrará um mirante excepcional e outras grandes atrações da região: o Hotel Llao Llao, com seu imponente cenário natural. Muito perto desse lugar está Puerto Pañuelo, ponto de partida para excursões lacustres. Faremos uma parada no Cerro Campanario para subir de teleférico até o cume e desfrutar da melhor vista panorâmica da região, 360 graus. <br> A partir deste local há um desvio que permite continuar em direção à área da Bahía López.",
+                    "en": "The small circuit is a half-day tour that allows you to get to know the city and its surroundings; It consists of visiting different points of the city of Bariloche.<br> After touring the peninsula, you arrive at the Villa Llao Llao, at km 23. There you will find an exceptional viewpoint and other great attractions in the area: the Hotel Llao Llao , with its imposing natural setting. Very close to that place is Puerto Pañuelo, the starting point for lake excursions. We will stop at Cerro Campanario to go up with chairlifts to the summit and enjoy the best panoramic view of the region, 360 degrees. <br> From this place there is a detour that allows you to continue towards the area of ​​Bahía López",
+                    "it": "",
+                    "fr": ""
+                }       
+            },
+
+            {
+                "codigo": 4,
+                "titulo":
+                {
+                    "es": "Ruta de los siete lagos",
+                    "pt": "Rota dos sete lagos",
+                    "en": "Route of the seven lakes",
+                    "it": "",
+                    "fr": ""
+                },
+                "url":"../media/tours/bariloche-lagos.jpg",
+                "detalle": 
+                {
+                    "es": "La Ruta de los 7 lagos es un tramo de 195 kilómetros, totalmente asfaltado por la ruta 40, rodeado de lagos, hermosos bosques, imponentes montañas, que unen las ciudades de Bariloche, Villa la Angostura y San Martin de los andes. <br> Atraviesa 2 parques nacionales, el parque nacional Lanin y el parque nacional Nahuel Huapi. <br> Se puede hacer en auto, en bici o contratando la excusión desde alguna ciudad de partida (Bariloche, Villa La Angostura o San Martín de los Andes). <br> Se puede realizar todo el año, pero según condiciones meteorológicas pueden existir restricciones en el camino.",
+                    "pt": "A Rota dos 7 lagos é um trecho de 195 quilômetros, totalmente pavimentado pela Rota 40, cercado por lagos, belos bosques e imponentes montanhas, ligando as cidades de Bariloche, Villa la Angostura e San Martin de los Andes. <br> Atravessa 2 parques nacionais, o Parque Nacional Lanin e o Parque Nacional Nahuel Huapi. <br> Pode ser feito de carro, de bicicleta ou alugando a excursão desde uma cidade de partida (Bariloche, Villa La Angostura ou San Martín de los Andes). <br> Pode ser feito durante todo o ano, mas dependendo das condições climáticas pode haver restrições no caminho.",
+                    "en": "The Route of the 7 lakes is a 195-kilometer stretch, completely paved by Route 40, surrounded by lakes, beautiful forests, and imposing mountains, linking the cities of Bariloche, Villa la Angostura, and San Martin de los Andes. <br> It crosses 2 national parks, the Lanin National Park and the Nahuel Huapi National Park. <br> It can be done by car, by bike or hiring the excursion from a departure city (Bariloche, Villa La Angostura or San Martín de los Andes). <br> It can be done all year round, but depending on weather conditions there may be restrictions on the way",
+                    "it": "",
+                    "fr": ""
+                }       
+            }
+        ]    
+    },
+
+
+
+
+
+
+
+
+    {
+        "id": 5,
+        "destino":
+        {
+            "es": "Excursiones en el Norte Argentino",
+            "pt": "Passeios no norte argentino",
+            "en": "Excursions in the Argentine North",
+            "it": "",
+            "fr": ""
+        },
+        "excursiones":
+        [
+            {
+                "codigo": 1,
+                "titulo":
+                {
+                    "es": "Quebrada de Humahuaca",
+                    "pt": "Quebrada de Humahuaca",
+                    "en": "Quebrada de Humahuaca",
+                    "it": "",
+                    "fr": ""
+                },
+                "url":"../media/tours/syj-quebrada-humahuaca.jpg",
+                "detalle": 
+                {
+                    "es": "La Quebrada de Humahuaca fue declarada en el año 2003 Sitio Patrimonio Cultural de la Humanidad de la UNESCO debido a su enorme valor cultural. <br> De sur a norte, la Quebrada de Humahuaca nace en Volcán, donde abruptamente las montañas abandonan el verde y dan paso a serranías ocres y marrones. A continuación, seguimos a Purmamarca que ha sido construida al pie del Cerro de Siete Colores, disfrutar del encanto de sus calles y ferias artesanales.  El recorrido sigue por Tilcara en donde se visita el Pucará (antigua fortaleza indígena), hoy reconstruido. Es una muestra de sus antiguos pobladores, los Tilcaras. <br> El pueblo de Humahuaca, corazón mismo de la quebrada, está lleno de atractivos naturales, históricos y culturales. El recorrido finaliza en Salta.",
+                    "pt": "A Quebrada de Humahuaca foi declarada Patrimônio da Humanidade pela UNESCO em 2003 devido ao seu enorme valor cultural. <br> De sul a norte, a Quebrada de Humahuaca nasce no Volcán, onde as montanhas abandonam abruptamente o verde e dão lugar a cordilheiras ocres e marrons. Em seguida, seguimos para Purmamarca, construída aos pés do Cerro de Siete Colores, desfrutando do charme de suas ruas e feiras de artesanato. O passeio continua por Tilcara onde se visita o Pucará (antiga fortaleza indígena), agora reconstruída. É uma amostra de seus antigos habitantes, os Tilcaras. <br> A cidade de Humahuaca, no coração do desfiladeiro, está repleta de atrações naturais, históricas e culturais. O passeio termina em Salta",
+                    "en": "The Quebrada de Humahuaca was declared a UNESCO World Heritage Site in 2003 due to its enormous cultural value. <br> From south to north, the Quebrada de Humahuaca rises in Volcán, where the mountains abruptly abandon the green and give way to ocher and brown mountain ranges. Next, we continue to Purmamarca which has been built at the foot of the Cerro de Siete Colores, enjoy the charm of its streets and craft fairs. The tour continues through Tilcara where the Pucará (old indigenous fortress), now rebuilt, is visited. It is a sample of its ancient inhabitants, the Tilcaras. <br> The town of Humahuaca, the very heart of the ravine, is full of natural, historical and cultural attractions. The tour ends in Salta",
+                    "it": "",
+                    "fr": ""
+                }       
+            },
+
+            {
+                "codigo": 2,
+                "titulo":
+                {
+                    "es": "Tren de las nubes",
+                    "pt": "Trem das nuvens",
+                    "en": "Train of the clouds",
+                    "it": "",
+                    "fr": ""
+                },
+                "url":"../media/tours/syj-tren-nubes.jpg",
+                "detalle": 
+                {
+                    "es": "Nacido en 1971 como tren turístico por el Ferrocarril General Belgrano.Un año más tarde, en 1972, comenzó su actividad real como tren turístico. La línea de ferrocarril es una de las obras de ingeniería ferroviaria más importantes del mundo, ya que recorre curva pronunciada y pasa por gran cantidad de túneles. Ascenderemos desde 1200 metros sobre el nivel del mar a más de 4100 metros. Se trata de uno de los paseos más esperados por los turistas, a la estación de San Antonio de los Cobres.",
+                    "pt": "Nascido em 1971 como trem turístico da Ferrovia General Belgrano, um ano depois, em 1972, iniciou sua atividade real como trem turístico. A linha férrea é uma das obras de engenharia ferroviária mais importantes do mundo, pois segue uma curva acentuada e passa por um grande número de túneis. Subiremos de 1200 metros acima do nível do mar para mais de 4100 metros. É um dos passeios mais esperados pelos turistas, até a estação de San Antonio de los Cobres",
+                    "en": "Born in 1971 as a tourist train for the General Belgrano Railway. One year later, in 1972, it began its real activity as a tourist train. The railway line is one of the most important railway engineering works in the world, as it follows a sharp curve and passes through a large number of tunnels. We will ascend from 1200 meters above sea level to more than 4100 meters. It is one of the most anticipated tours by tourists, to the San Antonio de los Cobres station",
+                    "it": "",
+                    "fr": ""
+                }       
+            },
+
+            {
+                "codigo": 3,
+                "titulo":
+                {
+                    "es": "Cafayate",
+                    "pt": "Cafayate",
+                    "en": "Cafayate",
+                    "it": "",
+                    "fr": ""
+                },
+                "url":"../media/tours/syj-cafayate.jpg",
+                "detalle": 
+                {
+                    "es": "Es una localidad de la provincia de Salta, en el noroeste de Argentina. Se ubica en los valles Calchaquíes, un área conocida por sus formaciones rocosas rojizas. Hay varios viñedos en la zona y, en la localidad, el Museo de la Vid y el Vino explica el proceso de producción de este producto. Cerca de la plaza del pueblo está el Museo Regional y Arqueológico Rodolfo Bravo, con objetos de excavaciones locales, y la catedral de Nuestra Señora del Rosario, del siglo XIX. ",
+                    "pt": "É uma cidade na província de Salta, no noroeste da Argentina. Está localizado nos vales Calchaquíes, uma área conhecida por suas formações rochosas avermelhadas. Existem várias vinhas na zona e, na vila, o Museu da Vinha e do Vinho explica o processo de produção deste produto. Perto da praça da cidade está o Museu Regional e Arqueológico Rodolfo Bravo, com objetos de escavações locais, e a Catedral de Nossa Senhora do Rosário, do século XIX.",
+                    "en": "It is a town in the province of Salta, in northwestern Argentina. It is located in the Calchaquíes valleys, an area known for its reddish rock formations. There are several vineyards in the area and, in the town, the Museum of Vine and Wine explains the production process of this product. Near the town square is the Rodolfo Bravo Regional and Archaeological Museum, with objects from local excavations, and the 19th-century Cathedral of Nuestra Señora del Rosario.",
+                    "it": "",
+                    "fr": ""
+                }       
+            },
+
+            {
+                "codigo": 4,
+                "titulo":
+                {
+                    "es": "City tour en Salta",
+                    "pt": "City tour em Salta",
+                    "en": "City tour in Salta",
+                    "it": "",
+                    "fr": ""
+                },
+                "url":"../media/tours/syj-city-tour-salta.jpg",
+                "detalle": 
+                {
+                    "es": "Conocida como 'Salta la linda', es una de las ciudades argentinas que más ha conservado el acervo arquitectónico colonial. En su aspecto edilicio se mezclan las construcciones coloniales de paredes blancas, techos de tejados rojos, aljibes, y aspecto señorial; con modernas edificaciones, dentro de una trama urbana que contiene varios espacios verdes entre los que se destaca el Parque San Martín, enlazado por el teleférico con el cerro San Bernardo de 1466 m.s.n.m.",
+                    "pt": "Conhecida como 'Salta la linda', é uma das cidades argentinas que melhor preservou seu patrimônio arquitetônico colonial. Em seu aspecto construtivo, mesclam-se construções coloniais com paredes brancas, telhados vermelhos, cisternas e aparência majestosa; com edifícios modernos, dentro de um tecido urbano que contém vários espaços verdes, entre os quais se destaca o Parque San Martín, ligado pelo teleférico ao morro San Bernardo de 1466 m.a.s.l.",
+                    "en": "Known as 'Salta la linda', it is one of the Argentine cities that has best preserved its colonial architectural heritage. In its building aspect, colonial constructions with white walls, red roofs, cisterns, and a stately appearance are mixed; with modern buildings, within an urban fabric that contains several green spaces, among which the San Martín Park stands out, linked by the cable car with the San Bernardo hill of 1466 m.a.s.l.",
+                    "it": "",
+                    "fr": ""
+                }       
+            },
+
+            {
+                "codigo": 5,
+                "titulo":
+                {
+                    "es": "Vuelta a los valles Calchaquíes en bicicleta",
+                    "pt": "Passeio pelos vales Calchaquíes de bicicleta",
+                    "en": "",
+                    "it": "",
+                    "fr": ""
+                },
+                "url":"../media/tours/syj-vuelta-valles-calchaquies.jpg",
+                "detalle": 
+                {
+                    "es": "Los Valles Calchaquíes atraviesan los territorios del Noroeste Argentino (Salta, Tucumán y Catamarca.) Este programa de 7 días en bicicletas de montañas se desarrolla en la provincia de Salta, transita por la ruta 40 y atraviesa pequeños pueblos y caseríos donde los antepasados dejaron sus huellas. El paisaje es sublime y ofrece panoramas sorprendentes de, sinuosos caminos y coloridos cerro",
+                    "pt": "Os Vales Calchaquíes atravessam os territórios do noroeste argentino (Salta, Tucumán e Catamarca). Este programa de 7 dias de mountain bike acontece na província de Salta, percorre a Rota 40 e passa por pequenos povoados e povoados onde os ancestrais deixaram suas pegadas. A paisagem é sublime e oferece vistas incríveis de estradas sinuosas e colinas coloridas.",
+                    "en": "The Calchaquí Valleys cross the territories of Northwest Argentina (Salta, Tucumán and Catamarca.) This 7-day mountain bike program takes place in the province of Salta, travels along Route 40 and through small towns and hamlets where ancestors left their footprints. The landscape is sublime and offers amazing views of winding roads and colorful hills.",
+                    "it": "",
+                    "fr": ""
+                }       
+            },
+
+            {
+                "codigo": 6,
+                "titulo":
+                {
+                    "es": "Tafí del Valle y Ruinas de Quilmes",
+                    "pt": "Tafi del Valle e Ruínas de Quilmes",
+                    "en": "Tafi del Valle and Ruins of Quilmes",
+                    "it": "",
+                    "fr": ""
+                },
+                "url":"../media/tours/syj-tafi-valle.jpg",
+                "detalle": 
+                {
+                    "es": "Tafi del Valle, un pequeño municipio enclavado en el Valle de Tafí. Alrededor del pueblo se elevan grandes montañas que crean una panorámica perfecta.  A continuación, seguiremos la carretera observando las impactantes Cumbres Calchaquíes. La próxima parada será en el asentamiento precolombino más grande de toda Argentina: las ruinas de Quilmes. Veremos metros  de murallas de piedra, lo que demuestra que era una población extensa de indios Calchaquíes. ",
+                    "pt": "Tafi del Valle, um pequeno município situado no Valle de Tafí. Ao redor da cidade erguem-se grandes montanhas que criam um panorama perfeito. Em seguida, seguiremos a estrada observando os impressionantes Cumbres Calchaquíes. A próxima parada será no maior assentamento pré-colombiano de toda a Argentina: as ruínas de Quilmes. Veremos metros de muros de pedra, o que mostra que era uma grande população de índios Calchaquíes.",
+                    "en": "Tafi del Valle, a small municipality nestled in the Valle de Tafí. Around the town rise large mountains that create a perfect panorama. Next, we will follow the road observing the impressive Cumbres Calchaquíes. The next stop will be at the largest pre-Columbian settlement in all of Argentina: the Quilmes ruins. We will see meters of stone walls, which shows that it was a large population of Calchaquíes Indians.",
+                    "it": "",
+                    "fr": ""
+                }       
+            },
+
+            {
+                "codigo": 7,
+                "titulo":
+                {
+                    "es": "Purmamarca",
+                    "pt": "Purmamarca",
+                    "en": "Purmamarca",
+                    "it": "Purmamarca",
+                    "fr": "Purmamarca"
+                },
+                "url":"../media/tours/syj-purmamarca.jpg",
+                "detalle": 
+                {
+                    "es": "Purmamarca es una localidad de la provincia de Jujuy, en el noroeste de Argentina. Se ubica en la base de un espectacular cerro multicolor llamado Cerro de los Siete Colores. Desde la villa, el sendero Paseo de los Colorados se dirige a los paisajes desérticos circundantes donde hay vistas de la montaña. Las casas de adobe bordean las calles y la Plaza 9 de Julio es sede de un mercado de artesanías popular. Cerca está la iglesia de Santa Rosa de Lima, de siglos de antigüedad.",
+                    "pt": "Purmamarca é uma cidade na província de Jujuy, no noroeste da Argentina. Está localizado na base de uma espetacular colina multicolorida chamada Cerro de los Siete Colores. Da vila, a trilha do Paseo de los Colorados leva às paisagens desérticas circundantes, onde há vistas da montanha. As casas de adobe se alinham nas ruas e a Plaza 9 de Julio abriga um popular mercado de artesanato. Perto está a centenária igreja de Santa Rosa de Lima.",
+                    "en": "Purmamarca is a town in the province of Jujuy, in northwestern Argentina. It is located at the base of a spectacular multicolored hill called Cerro de los Siete Colores. From the villa, the Paseo de los Colorados trail leads into the surrounding desert landscapes where there are mountain views. Adobe houses line the streets and Plaza 9 de Julio is home to a popular craft market. Nearby is the centuries-old church of Santa Rosa de Lima.",
+                    "it": "",
+                    "fr": ""
+                }       
+            }
+        ]    
+    },
+
+
+
+
+
+
+
+    {
+        "id": 6,
+        "destino":
+        {
+            "es": "Excursiones en Puerto Madryn",
+            "pt": "Excursões em Puerto Madryn",
+            "en": "Excursions in Puerto Madryn",
+            "it": "",
+            "fr": ""
+        },
+        "excursiones":
+        [
+            {
+                "codigo": 1,
+                "titulo":
+                {
+                    "es": "Avistaje de ballenas en barco",
+                    "pt": "Observação de baleias de barco",
+                    "en": "Whale watching by boat",
+                    "it": "",
+                    "fr": ""
+                },
+                "url":"../media/tours/puerto-madryn-avistaje-ballenas.jpg",
+                "detalle": 
+                {
+                    "es": "Las ballenas llegan a la costa de Puerto Madryn y Península Valdés durante el mes de mayo y se quedan para reproducirse y alimentar a los ballenatos hasta el mes de diciembre. Aunque la temporada de ballenas varía sus días cada año y no es posible saber con exactitud el momento que van a llegar y partir. También hay que tener en cuenta que las ballenas no arriban o parten todas juntas por tal motivo al principio y al final de temporada hay menos cantidad y se hace más difícil de observarlas.",
+                    "pt": "As baleias chegam à costa de Puerto Madryn e Península Valdés durante o mês de maio e ficam para se reproduzir e alimentar os filhotes até dezembro. Embora a temporada das baleias varie seus dias a cada ano e não seja possível saber exatamente quando chegarão e partirão. Deve-se também ter em mente que as baleias não chegam nem partem todas juntas, por isso no início e no final da temporada são menos e torna-se mais difícil observá-las.",
+                    "en": "The whales arrive at the coast of Puerto Madryn and Península Valdés during the month of May and stay to reproduce and feed the calves until December. Although the whale season varies its days each year and it is not possible to know exactly when they will arrive and depart. It should also be borne in mind that the whales do not arrive or depart all together for this reason at the beginning and end of the season there are fewer and it becomes more difficult to observe them.",
+                    "it": "",
+                    "fr": ""
+                }
+            },
+
+            {
+                "codigo": 2,
+                "titulo":
+                {
+                    "es": "Península Valdés",
+                    "pt": "Península Valdés",
+                    "en": "Península Valdés",
+                    "it": "",
+                    "fr": ""
+                },
+                "url":"../media/tours/puerto-madryn-penninsula-valdes.jpg",
+                "detalle": 
+                {
+                    "es": "Península Valdés es un Área Natural Protegida que pertenece al Gobierno de la Provincia de Chubut. La Península Valdés tiene al Golfo Nuevo al sur y el Golfo San José y Golfo San Matías al norte. <br> Las aguas tranquilas de los golfos y la costa recortada convierte esta zona es un verdadero santuario para la vida marina. <br> La Península Valdés fue declarada Patrimonio de la Humanidad por la Unesco en el año 1999. Cada año recibe a miles de turistas argentinos y extranjeros que llegan al lugar para disfrutar del avistaje de fauna y los hermosos paisajes costeros.",
+                    "pt": "Península Valdés é uma Área Natural Protegida que pertence ao Governo da Província de Chubut. A Península Valdés tem Golfo Nuevo ao sul e Golfo San José e Golfo San Matías ao norte. <br> As águas calmas dos golfos e o litoral recortado fazem desta área um verdadeiro santuário para a vida marinha. <br> A Península Valdés foi declarada Patrimônio da Humanidade pela UNESCO em 1999. Todos os anos recebe milhares de turistas argentinos e estrangeiros que vêm ao local para apreciar a observação da fauna e as belas paisagens litorâneas",
+                    "en": "Península Valdés is a Protected Natural Area that belongs to the Government of the Province of Chubut. The Valdés Peninsula has Golfo Nuevo to the south and Golfo San José and Golfo San Matías to the north. <br> The calm waters of the gulfs and the jagged coastline make this area a true sanctuary for marine life. <br> The Valdés Peninsula was declared a World Heritage Site by UNESCO in 1999. Every year it receives thousands of Argentine and foreign tourists who come to the place to enjoy the sighting of fauna and the beautiful coastal landscapes",
+                    "it": "",
+                    "fr": ""
+                }       
+            },
+
+            {
+                "codigo": 3,
+                "titulo":
+                {
+                    "es": "Punta Tombo",
+                    "pt": "Punta Tombo",
+                    "en": "Punta Tombo",
+                    "it": "",
+                    "fr": ""
+                },
+                "url":"../media/tours/puerto-madryn-punta-tombo.jpg",
+                "detalle": 
+                {
+                    "es": "La Reserva Natural de Punta Tombo alberga a la mayor colonia de pingüinos de Magallanes que existe en el mundo. Estos pingüinos se caracterizan por medir unos 50 cm de altura (aprox.), y su plumaje es blanco y negro. La pinguinera tiene un centro de visitantes donde los guardafauna brindas charlas y explicaciones. Desde aquí comienza un sendero largo de 3.500 metros a lo largo de la playa que recorre el hábitat de los pingüinos, se destacan los nidos cavados en la tierra y los ejemplares que con marcha firme y graciosa van y vienen del mar procurando su alimento. ",
+                    "pt": "A Reserva Natural de Punta Tombo abriga a maior colônia de pingüins de Magalhães do mundo. Esses pinguins são caracterizados por terem cerca de 50 cm de altura (aprox.), e sua plumagem é preta e branca. A colônia de pinguins tem um centro de visitantes onde os guardas dão palestras e explicações. A partir daqui começa um caminho de 3.500 metros pela praia que atravessa o habitat dos pinguins, com destaque para os ninhos cavados no solo e os exemplares que com uma marcha constante e graciosa vêm e vão do mar à procura do seu alimento.",
+                    "en": "The Punta Tombo Nature Reserve is home to the largest colony of Magellanic penguins in the world. These penguins are characterized by being about 50 cm tall (approx.), and their plumage is black and white. The penguin colony has a visitor center where the rangers give talks and explanations. From here begins a 3,500-meter long path along the beach that runs through the habitat of the penguins, highlighting the nests dug in the ground and the specimens that with a steady and graceful march come and go from the sea looking for their food.",
+                    "it": "",
+                    "fr": ""
+                }       
+            },
+
+            {
+                "codigo": 4,
+                "titulo":
+                {
+                    "es": "El doradillo",
+                    "pt": "El doradillo",
+                    "en": "El doradillo",
+                    "it": "",
+                    "fr": ""
+                },
+                "url":"../media/tours/puerto-madryn-doradillo.jpg",
+                "detalle": 
+                {
+                    "es": "El Área Natural Protegida El Doradillo, es una zona costera del norte de la ciudad de Puerto Madryn. Protege el ecosistema patagónico costero donde habitan diferentes especies de animales como los guanacos, ñandúes, zorros, maras y aves marinas. <br> Sin lugar a dudas entre junio y octubre la playa de El Doradillo adquiere una importancia mayor ya que en esos meses se puede observar a las ballenas que se acercan a pocos metros de la costa. Es uno de los mejores lugares para el avistaje desde tierra de la Ballena Franca Austral. En el área existen diferentes puntos para el avistaje y observatorios",
+                    "pt": "A Área Natural Protegida El Doradillo é uma área costeira ao norte da cidade de Puerto Madryn. Protege o ecossistema costeiro da Patagônia, onde vivem diferentes espécies de animais, como guanacos, emas, raposas, maras e aves marinhas. <br> Sem dúvida, entre junho e outubro, a praia de El Doradillo adquire uma importância maior, pois nesses meses você pode ver as baleias que vêm a poucos metros da costa. É um dos melhores lugares para observar a Baleia Franca Austral de terra. Na área existem diferentes pontos de observação e observatórios",
+                    "en": "The El Doradillo Natural Protected Area is a coastal area north of the city of Puerto Madryn. It protects the coastal Patagonian ecosystem where different species of animals live, such as guanacos, rheas, foxes, maras and seabirds. <br> Undoubtedly, between June and October, El Doradillo beach acquires a greater importance since in those months you can see the whales that come a few meters from the coast. It is one of the best places for watching the Southern Right Whale from land. In the area there are different points for sighting and observatories",
+                    "it": "",
+                    "fr": ""
+                }       
+            },
+
+            {
+                "codigo": 5,
+                "titulo":
+                {
+                    "es": "Punta Ninfas",
+                    "pt": "Punta Ninfas",
+                    "en": "Punta Ninfas",
+                    "it": "",
+                    "fr": ""
+                },
+                "url":"../media/tours/puerto-madryn-punta-ninfas.jpg",
+                "detalle": 
+                {
+                    "es": "En el lugar nos encontraremos con la soledad del faro y la inmensidad de la estepa Patagónica sólo para nosotros. Luego de una interpretación de fósiles, iniciaremos el descenso de un acantilado de 70 metros, aproximadamente, de mediana dificultad. En la playa, tendremos la oportunidad de interactuar con los Elefantes Marinos en su apostadero natural. Se trata de la expedición en el ambiente más natural con que cuenta la región.",
+                    "pt": "No lugar encontraremos a solidão do farol e a imensidão da estepe patagônica só para nós. Após uma interpretação dos fósseis, iniciaremos a descida de uma falésia de aproximadamente 70 metros, de dificuldade média. Na praia, teremos a oportunidade de interagir com os elefantes marinhos em sua colônia natural. Esta é a expedição no ambiente mais natural disponível na região",
+                    "en": "In the place we will find the solitude of the lighthouse and the immensity of the Patagonian steppe just for us. After an interpretation of fossils, we will begin the descent of a cliff of approximately 70 meters, of medium difficulty. On the beach, we will have the opportunity to interact with the Elephant Seals in their natural colony. This is the expedition in the most natural environment available in the region",
+                    "it": "",
+                    "fr": ""
+                }       
+            },
+
+            {
+                "codigo": 6,
+                "titulo":
+                {
+                    "es": "El Pedral",
+                    "pt": "El Pedral",
+                    "en": "El Pedral",
+                    "it": "",
+                    "fr": ""
+                },
+                "url":"../media/tours/puerto-madryn-pedral.jpg",
+                "detalle": 
+                {
+                    "es": "La casona de 1923, conformado por una infinita playa de canto rodado, altos acantilados y fauna en su hábitat natural. Caminatas al atardecer, tranquilidad, el fuego en el hogar a leña y la cena en un ambiente familiar, también forman parte de este lugar mágico. Auténtico casco de estancia patagónica, la casa de El Pedral es un museo en sí misma. La planificación de las actividades durante su estadía puede variar según el clima u oportunidades que surjan de avistajes, cantidad de noches de estadía, perfil de los huéspedes, etc. En el tiempo libre podrán hacer uso de la pileta, de las bicicletas para ir a la playa o pasear. Se puede conocer el faro de Punta Ninfas, observar una colonia de elefantes marinos, caminata guiada entre pingüinos de Magallanes y disfrutas de la comida única de la casa.",
+                    "pt": "A mansão de 1923, composta por uma infinita praia de calhau, altas falésias e fauna em seu habitat natural. Passeios ao pôr do sol, tranquilidade, o fogo na lareira e jantares em ambiente familiar, também fazem parte deste lugar mágico. Autêntica casa de fazenda patagônica, a casa de El Pedral é um museu em si. O planeamento das atividades durante a sua estadia pode variar em função das condições climatéricas ou das oportunidades que surjam dos avistamentos, número de noites de estadia, perfil do hóspede, etc. Nos tempos livres pode utilizar a piscina, bicicletas para ir à praia ou caminhar. Você pode ver o farol de Punta Ninfas, observar uma colônia de elefantes marinhos, caminhada guiada entre os pinguins de Magalhães e saborear a comida única da casa",
+                    "en": "The 1923 mansion, made up of an infinite pebble beach, high cliffs and fauna in their natural habitat. Sunset walks, tranquility, the fire in the fireplace and dinner in a family atmosphere, are also part of this magical place. Authentic Patagonian ranch house, the house of El Pedral is a museum in itself. The planning of activities during your stay may vary depending on the weather or opportunities that arise from sightings, number of nights of stay, guest profile, etc. In free time you can use the pool, bicycles to go to the beach or walk. You can see the lighthouse of Punta Ninfas, observe a colony of sea elephants, guided walk among Magellanic penguins and enjoy the unique food of the house",
+                    "it": "",
+                    "fr": ""
+                }       
+            }
+        ]    
+    },
+
+
+
+
+
+
+
+    {
+        "id": 7,
+        "destino":
+        {
+            "es": "Excursiones en Calafate",
+            "pt": "Passeios em Calafate",
+            "en": "",
+            "it": "",
+            "fr": ""
+        },
+        "excursiones":
+        [
+            {
+                "codigo": 1,
+                "titulo":
+                {
+                    "es": "Glaciar Perito Moreno",
+                    "pt": "Glaciar Perito Moreno",
+                    "en": "Glaciar Perito Moreno",
+                    "it": "",
+                    "fr": ""
+                },
+                "url":"../media/tours/calafate-perito-moreno.jpg",
+                "detalle": 
+                {
+                    "es": "Partiremos de El Calafate y luego de 85 km por tierra arribaremos al Glaciar Perito Moreno, formado hace unos 30.000 años. La altura de la pared frontal es en su parte más alta de 80 metros, y su frente cubre una distancia de 3 kilómetros. Es el único glaciar en el mundo que crece sobre el agua, separando el Brazo Sur del Brazo Rico (ambos del Lago Argentino). <br> La excursión consiste en contemplar desde tierra a través de diversos ángulos, y de cada vez más cercanos miradores, el extraordinario espectáculo del glaciar, carcomido por el Lago Argentino y observar eventualmente la caída de las moles de hielo. Regreso a Calafate.",
+                    "pt": "Partiremos de El Calafate e depois de 85 km por terra chegaremos ao Glaciar Perito Moreno, formado há cerca de 30.000 anos. A altura da parede frontal é de 80 metros em sua parte mais alta, e sua frente cobre uma distância de 3 quilômetros. É a única geleira do mundo que cresce sobre a água, separando o Brazo Sur do Brazo Rico (ambos do Lago Argentino). <br> A excursão consiste em contemplar da terra por vários ângulos, e de mirantes cada vez mais próximos, o extraordinário espetáculo da geleira, corroída pelo Lago Argentino e eventualmente observando a queda das massas de gelo. Regresso a Calafate",
+                    "en": "We will depart from El Calafate and after 85 km by land we will arrive at the Perito Moreno Glacier, formed about 30,000 years ago. The height of the front wall is at its highest part 80 meters, and its front covers a distance of 3 kilometers. It is the only glacier in the world that grows over water, separating the Brazo Sur from the Brazo Rico (both from Lago Argentino). <br> The excursion consists of contemplating from land through different angles, and from increasingly closer viewpoints, the extraordinary spectacle of the glacier, eaten away by Lake Argentino and eventually observing the fall of the ice masses. Return to Calafate",
+                    "it": "",
+                    "fr": ""
+                }       
+            },
+
+            {
+                "codigo": 2,
+                "titulo":
+                {
+                    "es": "Safari Náutico",
+                    "pt": "Safari Náutico",
+                    "en": "Safari Náutico",
+                    "it": "",
+                    "fr": ""
+                },
+                "url":"../media/tours/calafate-safari-nautico.jpg",
+                "detalle": 
+                {
+                    "es": "Navegación que se realiza desde el Puerto Bajo de las Sombras, a 7 km del Mirador del Glaciar. Desde ahí la embarcación navega por el Brazo Rico del Lago Argentino que permite apreciar los témpanos y desprendimientos que se producen en la cara sur del Glaciar Perito Moreno. Varias frecuencias diarias. Duración total: 1 hora.",
+                    "pt": "Navegação que se realiza a partir do Porto Bajo de las Sombras, a 7 km do Miradouro do Glaciar. A partir daí, o barco navega pelo Braço Rico do Lago Argentino, o que nos permite apreciar os icebergs e deslizamentos de terra que ocorrem na face sul do Glaciar Perito Moreno. Várias frequências diárias. Duração total: 1 hora",
+                    "en": "Sailing that takes place from the Bajo de las Sombras Port, 7 km from the Glacier Viewpoint. From there, the boat navigates through the Rico Branch of Lake Argentino, which allows us to appreciate the icebergs and landslides that occur on the south face of the Perito Moreno Glacier. Various daily frequencies. Total duration: 1 hour",
+                    "it": "",
+                    "fr": ""
+                }       
+            },
+
+            {
+                "codigo": 3,
+                "titulo":
+                {
+                    "es": "Minitrekking",
+                    "pt": "Minitrekking",
+                    "en": "Minitrekking",
+                    "it": "",
+                    "fr": ""
+                },
+                "url":"../media/tours/calafate-glaciares-gourmet.jpg",
+                "detalle": 
+                {
+                    "es": "Se inicia entonces una caminata por la orilla del lago de aproximadamente 35 minutos hasta el glaciar. <br> Al llegar al borde del hielo los guías colocan los crampones a los participantes, quienes reciben instrucciones sobre la forma en que deben desplazarse sobre el hielo. El recorrido sobre el glaciar se realiza en aproximadamente 01:30 horas, y durante el transcurso del mismo se podrá apreciar una variedad de formaciones de hielo como: grietas, seracs, sumideros, pequeñas lagunas, etc. <br> La caminata es moderada. La superficie de hielo sobre la que se camina es irregular, pero firme y segura. <br> Se recibirán explicaciones acerca de la flora, fauna y glaciología general de la región como así también del fenómeno particular que ocurre en el glaciar Perito Moreno y eventualmente produce su ruptura.",
+                    "pt": "Em seguida, começa uma caminhada ao longo da margem do lago por aproximadamente 35 minutos até a geleira. <br> Ao chegar à beira do gelo, os guias colocam os grampos nos participantes, que recebem instruções de como se movimentar no gelo. O passeio na geleira dura aproximadamente 01:30 horas, e durante o percurso você pode ver uma variedade de formações de gelo como: rachaduras, seracs, dolinas, pequenas lagoas, etc. <br> A caminhada é moderada. A superfície de gelo sobre a qual você caminha é irregular, mas firme e segura. <br> Serão recebidas explicações sobre a flora, fauna e glaciologia geral da região, bem como o fenômeno particular que ocorre na geleira Perito Moreno e eventualmente causa sua ruptura.",
+                    "en": "Then begins a walk along the shore of the lake for approximately 35 minutes to the glacier. <br> Upon reaching the edge of the ice, the guides place the crampons on the participants, who receive instructions on how to move on the ice. The tour on the glacier takes approximately 01:30 hours, and during the course of it you can see a variety of ice formations such as: cracks, seracs, sinkholes, small lagoons, etc. <br> The hike is moderate. The ice surface on which you walk is uneven, but firm and safe. <br> Explanations will be received about the flora, fauna and general glaciology of the region as well as the particular phenomenon that occurs in the Perito Moreno glacier and eventually produces its rupture.",
+                    "it": "",
+                    "fr": ""
+                }       
+            },
+
+            {
+                "codigo": 4,
+                "titulo":
+                {
+                    "es": "Big Ice",
+                    "pt": "Big Ice",
+                    "en": "Big Ice",
+                    "it": "",
+                    "fr": ""
+                },
+                "url":"../media/tours/calafate-big-ice.jpg",
+                "detalle": 
+                {
+                    "es": "Esta imperdible experiencia, se inicia en el Puerto temprano en la mañana. Allí se toma una embarcación para cruzar el Brazo Rico, y desembarcar 20 minutos después en la costa oeste. <br> La caminata inicia por la morena sur del glaciar Perito Moreno, y en poco más de una hora llegarán a un espectacular mirador, por donde accederán al hielo, allí los guías colocaran los crampones y arneses para comenzar la travesía. <br> Una vez en el glaciar y con los crampones puestos, el mundo toma una nueva perspectiva: lagunas azules, profundas grietas, enormes sumideros, mágicas cuevas, y la sensación única de sentirse en el centro del glaciar. <br> Siempre acompañados e instruidos por guías expertos, que junto a ustedes explorarán durante tres horas y media. Durante el recorrido los guías los ayudarán a conocer mejor el hielo y su entorno. <br> Una vez en la morena, caminarán otra hora para tomar la embarcación de regreso se navega muy cerca de pared sur del Gl. Perito Moreno.",
+                    "pt": "Esta experiência imperdível começa no porto de manhã cedo. Lá você pega um barco para cruzar o Brazo Rico, e desembarca 20 minutos depois na costa oeste. <br> A caminhada começa pela morena sul da geleira Perito Moreno, e em pouco mais de uma hora você chegará a um mirante espetacular, onde você acessará o gelo, onde os guias colocarão os grampos e os arreios para iniciar a jornada. <br> Uma vez na geleira e com os grampos colocados, o mundo assume uma nova perspectiva: lagoas azuis, fendas profundas, enormes dolinas, cavernas mágicas e a sensação única de estar no centro da geleira. <br> Sempre acompanhado e instruído por guias especializados, que junto com você explorarão por três horas e meia. Durante o passeio, os guias ajudarão você a entender melhor o gelo e seus arredores. <br> Uma vez na morena, eles caminharão mais uma hora para pegar o barco de volta, navegando bem próximo à parede sul do Gl. Perito Moreno",
+                    "en": "This unmissable experience begins in the Port early in the morning. There you take a boat to cross the Brazo Rico, and disembark 20 minutes later on the west coast. <br> The walk begins through the southern moraine of the Perito Moreno glacier, and in just over an hour you will reach a spectacular viewpoint, where you will access the ice, where the guides will place the crampons and harnesses to begin the journey. <br> Once on the glacier and with the crampons on, the world takes on a new perspective: blue lagoons, deep crevasses, huge sinkholes, magical caves, and the unique sensation of being in the center of the glacier. <br> Always accompanied and instructed by expert guides, who together with you will explore for three and a half hours. During the tour, the guides will help you to better understand the ice and its surroundings. <br> Once in the moraine, they will walk another hour to take the boat back, sailing very close to the south wall of the Gl. Perito Moreno",
+                    "it": "",
+                    "fr": ""
+                }       
+            },
+
+            {
+                "codigo": 5,
+                "titulo":
+                {
+                    "es": "Marpatag (Glaciares Gourmet)",
+                    "pt": "Marpatag (Glaciares Gourmet)",
+                    "en": "Marpatag (Glaciares Gourmet)",
+                    "it": "",
+                    "fr": ""
+                },
+                "url":"../media/tours/calafate-glaciares-gourmet.jpg",
+                "detalle": 
+                {
+                    "es": "Glaciares Gourmet es una experiencia full day a bordo de un Crucero que recorre algunos lugares de este paraje patagónico, navegándolo con el más alto confort y con una gastronomía gourmet diseñada especialmente para una experiencia memorable. <br> El PN Los Glaciares es un magnífico escenario de bosques, lagos, montañas, hielo y estepa, con más de 200 glaciares. Destacan el Glaciar Spegazzini con la gran altura de su frente que alcanza los 135 msnm, el Glaciar Upsala que cubre todo un valle con una extensión aproximada de 765 Km2 y una longitud de 53 km, y el Glaciar Perito Moreno, en constante avance, y cuyas rupturas son un espectáculo natural incomparable.",
+                    "pt": "Gourmet Glaciers é uma experiência de dia inteiro a bordo de um navio de cruzeiro que percorre alguns lugares desta paisagem patagônica, navegando-a com o máximo conforto e com uma cozinha gourmet especialmente pensada para uma experiência memorável. <br> O Parque Nacional Los Glaciares é um cenário magnífico de florestas, lagos, montanhas, gelo e estepe, com mais de 200 geleiras. Destaca-se o Glaciar Spegazzini com a grande altura de sua frente que chega a 135 metros acima do nível do mar, o Glaciar Upsala que cobre um vale inteiro com uma extensão aproximada de 765 km2 e uma extensão de 53 km, e o Glaciar Perito Moreno, em constante avanço, e cujas pausas são um espetáculo natural incomparável",
+                    "en": "Gourmet Glaciers is a full day experience aboard a cruise ship that covers some places in this Patagonian landscape, navigating it with the highest comfort and with gourmet cuisine specially designed for a memorable experience. <br> Los Glaciares National Park is a magnificent setting of forests, lakes, mountains, ice and steppe, with more than 200 glaciers. The Spegazzini Glacier stands out with the great height of its front that reaches 135 meters above sea level, the Upsala Glacier that covers an entire valley with an approximate extension of 765 km2 and a length of 53 km, and the Perito Moreno Glacier, in constant advance, and whose breaks are an incomparable natural spectacle",
+                    "it": "",
+                    "fr": ""
+                }       
+            },
+
+            {
+                "codigo": 6,
+                "titulo":
+                {
+                    "es": "Estancia Nibepo Aike",
+                    "pt": "Estância Nibepo Aike",
+                    "en": "Estancia Nibepo Aike",
+                    "it": "",
+                    "fr": ""
+                },
+                "url":"../media/tours/calafate-nibepo.jpg",
+                "detalle": 
+                {
+                    "es": "Este programa es perfecto para participar de la vida rural patagónica y complementa la visita a los glaciares. Son dos salidas diarias, am y pm. Comprende: desayuno o te, prueba de riendas, demostración de esquila y culmina con un exquisito asado de cordero (almuerzo o cena). En el programa de la mañana, se le puede sumar por la tarde 3 horas de cabalgata, luego del almuerzo.",
+                    "pt": "Este programa é perfeito para participar da vida rural patagônica e complementa a visita às geleiras. Há duas saídas diárias, am e pm. Inclui: pequeno-almoço ou chá, prova de rédeas, demonstração de tosquia e termina com um requintado borrego assado (almoço ou jantar). No programa da manhã, você pode adicionar 3 horas de cavalgada à tarde, após o almoço",
+                    "en": "This program is perfect to participate in rural Patagonian life and complements the visit to the glaciers. There are two daily departures, am and pm. Includes: breakfast or tea, rein test, shearing demonstration and ends with an exquisite roast lamb (lunch or dinner). In the morning program, you can add 3 hours of horseback riding in the afternoon, after lunch",
+                    "it": "",
+                    "fr": ""
+                }       
+            }
+        ]    
+    },
+
+
+
+
+
+
+
+    {
+        "id": 8,
+        "destino":
+        {
+            "es": "Excursiones en Ushuaia",
+            "pt": "Passeios em Ushuaia",
+            "en": "",
+            "it": "",
+            "fr": ""
+        },
+        "excursiones":
+        [
+            {
+                "codigo": 1,
+                "titulo":
+                {
+                    "es": "Navegación Canal del Beagle",
+                    "pt": "Navegação do Canal Beagle",
+                    "en": "Beagle Channel Navigation",
+                    "it": "",
+                    "fr": ""
+                },
+                "url":"../media/tours/ushuaia-navegacion-bragle.jpg",
+                "detalle": 
+                {
+                    "es": "Al embarcarse en este catamarán, se obtendrá una panorámica impagable de la ciudad y su puerto. Sus recorridos pueden abarcar: la isla de los pájaros y la lobería, hábitat de los lobos marinos; la pingüinera, donde se observará varios tipos de pingüinos y también nos acercamos al faro LES ECLAIREURS, más conocido como el Faro del fin del mundo, típica postal de Ushuaia, incluyendo las islas Bridge e Isla Karelo.",
+                    "pt": "Ao embarcar neste catamarã, você terá uma vista inestimável da cidade e seu porto. Seus passeios podem incluir: a ilha dos pássaros e a colônia de leões marinhos, habitat dos leões marinhos; a colônia de pinguins, onde serão observados vários tipos de pinguins e também abordaremos o farol LES ECLAIREURS, mais conhecido como o Farol do Fim do Mundo, um cartão postal típico de Ushuaia, incluindo as Ilhas Ponte e Ilha Karelo",
+                    "en": "When embarking on this catamaran, you will get a priceless view of the city and its port. Its tours can include: the island of birds and the sea lion colony, habitat of sea lions; the penguin colony, where several types of penguins will be observed and we will also approach the LES ECLAIREURS lighthouse, better known as the Lighthouse at the end of the world, a typical postcard of Ushuaia, including the Bridge Islands and Karelo Island",
+                    "it": "",
+                    "fr": ""
+                }       
+            },
+
+            {
+                "codigo": 2,
+                "titulo":
+                {
+                    "es": "Parque nacional Tierra del Fuego",
+                    "pt": "Parque Nacional da Terra do Fogo",
+                    "en": "Tierra del Fuego National Park",
+                    "it": "",
+                    "fr": ""
+                },
+                "url":"../media/tours/ushuaia-parque-nacional.jpg",
+                "detalle": 
+                {
+                    "es": "Casi 70.000 hectáreas de bosques patagónicos conforman el Parque Nacional Tierra del Fuego, creado en septiembre de 1960. Ubicado a 11 kilómetros al oeste de la ciudad de Ushuaia, es el único parque nacional de Argentina que bordea el mar, ya que uno de sus extremos abarca la franja costera suroeste del Canal Beagle. La Bahía Lapataia, donde culmina la Ruta Nacional Nº 3, es el único fiordo situado en el sector argentino de la isla. Se podrán recorrer los diferentes circuitos dentro del parque, el más conocido, por ser el que tiene las mejores vistas al canal del Beagle es Bahía Lapataia. Se puede combinar esta excursión con el tren del fin del mundo, un recorrido de 45 minutos aproximadamente, donde nos mostrarán y contarán las diferentes actividades a las que eran sometidos los presos. ",
+                    "pt": "Quase 70.000 hectares de florestas patagônicas compõem o Parque Nacional Tierra del Fuego, criado em setembro de 1960. Localizado a 11 quilômetros a oeste da cidade de Ushuaia, é o único parque nacional da Argentina que faz fronteira com o mar, pois uma de suas extremidades cobre a faixa costeira sudoeste do Canal de Beagle. A Baía de Lapataia, onde termina a Rota Nacional 3, é o único fiorde localizado no setor argentino da ilha. Você pode percorrer os diferentes circuitos dentro do parque, o mais conhecido, por ser aquele com as melhores vistas do Canal de Beagle, é a Baía de Lapataia. Esta excursão pode ser combinada com o trem do fim do mundo, uma viagem de aproximadamente 45 minutos, onde eles nos mostrarão e nos contarão sobre as diferentes atividades a que os presos foram submetidos.",
+                    "en": "Almost 70,000 hectares of Patagonian forests make up the Tierra del Fuego National Park, created in September 1960. Located 11 kilometers west of the city of Ushuaia, it is the only national park in Argentina that borders the sea, since one of its ends It covers the southwest coastal strip of the Beagle Channel. Lapataia Bay, where National Route 3 ends, is the only fjord located in the Argentine sector of the island. You can go through the different circuits within the park, the best known, for being the one with the best views of the Beagle Channel, is Lapataia Bay. This excursion can be combined with the end of the world train, a journey of approximately 45 minutes, where they will show us and tell us about the different activities to which the prisoners were subjected.",
+                    "it": "",
+                    "fr": ""
+                }       
+            },
+
+            {
+                "codigo": 3,
+                "titulo":
+                {
+                    "es": "Lago Escondido y Fagnano",
+                    "pt": "Lago Escondido y Fagnano",
+                    "en": "Hidden Lake and Fagnano",
+                    "it": "",
+                    "fr": ""
+                },
+                "url":"../media/tours/ushuaia-lago-fagnano.jpg",
+                "detalle": 
+                {
+                    "es": "En la excursión a Lago Escondido y Fagnano descubrirás la magnífica naturaleza fuera de la ciudad, extensos turbales, lagos de origen glaciar rodeados por montañas cubiertas de nieve y por el bosque sub antártico. El próximo punto del recorrido será el Paso Garibaldi (450 mts sobre el nivel del mar), donde cruzaremos la Cordillera de los Andes, con la hermosa vista de los Lagos Escondido y Fagnano. <br> Desde allí comenzaremos el descenso y luego de visitar la hostería Petrel en la costa del Lago Escondido continuaremos hasta llegar a la zona de los aserraderos, en particular al aserradero Martínez, hoy desactivado, en la costa del Lago Fagnano desde allí iniciaremos el regreso a la ciudad.",
+                    "pt": "Na excursão ao Lago Escondido e Fagnano você descobrirá a magnífica natureza fora da cidade, extensas turfeiras, lagos glaciais cercados por montanhas cobertas de neve e a floresta subantártica. O próximo ponto do passeio será o Passo Garibaldi (450 metros acima do nível do mar), onde cruzaremos a Cordilheira dos Andes, com a bela vista dos Lagos Escondido e Fagnano. <br> De lá começaremos a descida e depois de visitar a pousada Petrel na margem do Lago Escondido continuaremos até chegar à área da serraria, em particular a serraria Martínez, hoje desativada, na margem do Lago Fagnano de lá vai começar a volta para a cidade",
+                    "en": "On the excursion to Lago Escondido and Fagnano you will discover the magnificent nature outside the city, extensive peat bogs, glacial lakes surrounded by snow-capped mountains and the sub-Antarctic forest. The next point of the tour will be the Garibaldi Pass (450 meters above sea level), where we will cross the Andes Mountains, with the beautiful view of the Escondido and Fagnano Lakes. <br> From there we will begin the descent and after visiting the Petrel inn on the shore of Lago Escondido we will continue until we reach the sawmill area, in particular the Martínez sawmill, today deactivated, on the shore of Lake Fagnano from there we will begin the back to the city",
+                    "it": "",
+                    "fr": ""
+                }       
+            },
+
+            {
+                "codigo": 4,
+                "titulo":
+                {
+                    "es": "Estancia Haberton",
+                    "pt": "Estancia Haberton",
+                    "en": "Estancia Haberton",
+                    "it": "",
+                    "fr": ""
+                },
+                "url":"../media/tours/ushuaia-estancia-haberton.jpg",
+                "detalle": 
+                {
+                    "es": "Un viaje al pasado te llevara a conocer la historia detrás de la primer Estancia de Tierra del Fuego, reviviendo los momentos y anécdotas más importantes. <br> Fundada en 1886 por el misionero anglicano Thomas Bridges, quien fue el primer hombre blanco en vivir permanentemente en Tierra del Fuego, cumplió un rol muy importante para establecer la soberanía Argentina en esta zona. <br> Actualmente es administrada por miembros de la quinta y sexta generación de la familia, ofreciendo una gran variedad de actividades diarias y programas con alojamiento incluido.",
+                    "pt": "Uma viagem ao passado o levará a conhecer a história por trás da primeira Estância na Terra do Fogo, revivendo os momentos e anedotas mais importantes. <br> Fundado em 1886 pelo missionário anglicano Thomas Bridges, que foi o primeiro homem branco a viver permanentemente na Terra do Fogo, desempenhou um papel muito importante no estabelecimento da soberania argentina nesta área. <br> Atualmente é gerido por membros da quinta e sexta geração da família, oferecendo uma grande variedade de atividades diárias e programas com alojamento incluído.",
+                    "en": "A trip to the past will take you to know the history behind the first Estancia in Tierra del Fuego, reliving the most important moments and anecdotes. <br> Founded in 1886 by the Anglican missionary Thomas Bridges, who was the first white man to live permanently in Tierra del Fuego, he played a very important role in establishing Argentine sovereignty in this area. <br> It is currently managed by members of the fifth and sixth generation of the family, offering a wide variety of daily activities and programs with accommodation included.",
+                    "it": "",
+                    "fr": ""
+                }       
+            },
+
+            {
+                "codigo": 5,
+                "titulo":
+                {
+                    "es": "Lagos off Road",
+                    "pt": "Lagos off Road",
+                    "en": "Lagos off Road",
+                    "it": "",
+                    "fr": ""
+                },
+                "url":"../media/tours/ushuaia-lagos-off-road.jpg",
+                "detalle": 
+                {
+                    "es": "Para que todos puedan conocer y disfrutar las vistas maravillosas del bosque y los ríos que bordean dos lagos creamos una auténtica travesía 4x4 apta para todo tipo de viajero. <br> En la excursión a Lago Escondido y Fagnano descubrirás la magnífica naturaleza fuera de la ciudad, extensos turbales, lagos de origen glaciar rodeados por montañas cubiertas de nieve y por el bosque sub antártico. <br> Luego de las actividades seguiremos camino y cruzaremos la cordillera de los Andes por la Ruta nacional 3 hasta llegar al Paso Garibaldi a 430 metros sobre el nivel del mar. Allí nos detendremos en el mirador del Lago Escondido para contemplar el magnífico escenario natural. Continuamos bajando los Lagos Escondido y Fagnano hasta llegar a la Estancia privada castorera donde podemos disfrutar conociendo la vida de los castores con posibilidad de avistaje de castores, conociendo los diques que arman. <br> Por último, antes de regresar a la ciudad, haremos una parada más en el Centro Invernal y disfrutaremos un exquisito almuerzo con opción a elegir cordero a la estaca libre.",
+                    "pt": "Para que todos possam conhecer e desfrutar das maravilhosas vistas da floresta e dos rios que margeiam dois lagos, criamos uma autêntica viagem 4x4 adequada para todos os tipos de viajantes. <br> Na excursão ao Lago Escondido e Fagnano, você descobrirá a magnífica natureza fora da cidade, extensas turfeiras, lagos de origem glacial cercados por montanhas nevadas e a floresta subantártica. <br> Após as atividades, continuaremos nosso caminho e cruzaremos a Cordilheira dos Andes pela Rota Nacional 3 até chegarmos ao Passo Garibaldi a 430 metros acima do nível do mar. Lá faremos uma parada no mirante do Lago Escondido para contemplar a magnífica paisagem natural. Continuamos descendo os lagos Escondido e Fagnano até chegar à estância privada dos castores, onde podemos desfrutar de conhecer a vida dos castores com a possibilidade de avistar os castores, conhecendo as barragens que eles constroem. <br> Por fim, antes de retornar à cidade, faremos mais uma parada no Winter Center e desfrutaremos de um requintado almoço com opção de escolha de cordeiro de corte livre.",
+                    "en": "So that everyone can get to know and enjoy the wonderful views of the forest and the rivers that border two lakes, we created an authentic 4x4 journey suitable for all types of travelers. <br> On the excursion to Lago Escondido and Fagnano you will discover the magnificent nature outside the city, extensive peat bogs, lakes of glacial origin surrounded by snow-capped mountains and the sub-Antarctic forest. <br> After the activities we will continue on our way and cross the Andes mountain range along National Route 3 until we reach the Garibaldi Pass at 430 meters above sea level. There we will stop at the viewpoint of Lago Escondido to contemplate the magnificent natural scenery. We continue down the Escondido and Fagnano Lakes until we reach the private beaver Estancia where we can enjoy knowing the life of beavers with the possibility of beaver sighting, knowing the dams they build. <br> Finally, before returning to the city, we will make one more stop at the Winter Center and enjoy an exquisite lunch with the option to choose free-stake lamb.",
+                    "it": "",
+                    "fr": ""
+                }       
+            }
+        ]    
+    },
+
+
+
+
+
+
+
+    {
+        "id": 9,
+        "destino":
+        {
+            "es": "Excursiones en El Chalten",
+            "pt": "Excursões em El Chaltén",
+            "en": "Excursions in El Chalten",
+            "it": "",
+            "fr": ""
+        },
+        "excursiones":
+        [
+            {
+                "codigo": 1,
+                "titulo":
+                {
+                    "es": "Trekking Fitz Roy Laguna de los tres",
+                    "pt": "Trekking Fitz Roy Laguna de los tres",
+                    "en": "Trekking Fitz Roy Laguna de los tres",
+                    "it": "",
+                    "fr": ""
+                },
+                "url":"../media/tours/chalten-fitz-roy.jpg",
+                "detalle": 
+                {
+                    "es": "La caminata más buscada y con las vistas más espectaculares del macizo del Fitz Roy. Este mirador natural es el sitio más próximo a las imponentes paredes del Fitz Roy y sus agujas graníticas periféricas y sin duda la más famosa de todas las caminatas.",
+                    "pt": "A caminhada mais popular com as vistas mais espetaculares do maciço Fitz Roy. Este miradouro natural é o local mais próximo das imponentes muralhas de Fitz Roy e dos seus pináculos de granito periféricos e sem dúvida o mais famoso de todos os passeios",
+                    "en": "The most popular hike with the most spectacular views of the Fitz Roy massif. This natural viewpoint is the closest site to the imposing walls of Fitz Roy and its peripheral granite spiers and without a doubt the most famous of all the walks.",
+                    "it": "",
+                    "fr": ""
+                }       
+            },
+
+            {
+                "codigo": 2,
+                "titulo":
+                {
+                    "es": "Mirador del Torre",
+                    "pt": "Mirante da torre",
+                    "en": "Tower viewpoint",
+                    "it": "",
+                    "fr": ""
+                },
+                "url":"../media/tours/chalten-mirador-cerro-torre.jpg",
+                "detalle": 
+                {
+                    "es": "Una caminata corta y de baja dificultad por el valle del río Fitz Roy hasta el famoso mirador panorámico de los cerros Solo, cordón Adela y macizo del Cerro Torre.",
+                    "pt": "Uma curta e fácil caminhada pelo vale do rio Fitz Roy até o famoso mirante panorâmico das colinas Solo, a cordilheira de Adela e o maciço do Cerro Torre",
+                    "en": "A short and easy hike through the Fitz Roy river valley to the famous panoramic viewpoint of the Solo hills, the Adela mountain range and the Cerro Torre massif",
+                    "it": "",
+                    "fr": ""
+                }       
+            },
+
+            {
+                "codigo": 3,
+                "titulo":
+                {
+                    "es": "Laguna del diablo y puesto Cagliero",
+                    "pt": "Lagoa do Diabo e Posto Cagliero",
+                    "en": "Devil's Lagoon and Cagliero Post",
+                    "it": "",
+                    "fr": ""
+                },
+                "url":"../media/tours/chalten-laguna-diablo.jpg",
+                "detalle": 
+                {
+                    "es": "Una laguna ubicada en un ambiente prístino, hábitat del huemul. Aquí se encuentra el Puesto Cagliero, un refugio de montaña que toma su nombre del glaciar que alimenta esta laguna.",
+                    "pt": "Uma lagoa localizada em um ambiente intocado, habitat do huemul. Aqui está o Puesto Cagliero, um refúgio de montanha que leva o nome da geleira que alimenta esta lagoa.",
+                    "en": "A lagoon located in a pristine environment, habitat of the huemul. Here is the Puesto Cagliero, a mountain refuge that takes its name from the glacier that feeds this lagoon.",
+                    "it": "",
+                    "fr": ""
+                }       
+            }
+        ]    
+    }
+]    

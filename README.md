@@ -72,4 +72,8 @@ Los elementos de la db los voy a crear a mano para el desafío, por lo menos alg
 
 Panel de administracion: python manage.py createsuperuser
 
+Agregue imagenes para los paquetes
+
+
+
 

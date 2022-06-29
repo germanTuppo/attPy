@@ -63,4 +63,4 @@ def buscar(request):
 	      respuesta = "No enviaste datos"
 
       return render(request, "blog/blog.html", {"respuesta":respuesta})
-      
+      #me altera este error (funciona, por eso me altera mas aún...)
