@@ -44,4 +44,23 @@ def usuarioFormulario(request):
 
             miFormulario= UsuarioFormulario() #Formulario vacio para construir el html
 
-      return render(request, "blog/usuarioFormulario.html", {"miFormulario":miFormulario})
+      return render(request, "blog/blog.html", {"miFormulario":miFormulario})
+
+
+def buscar(request):
+
+      if  request.GET["email"]: #if request.method == 'Get':
+
+	      #respuesta = f"Estoy buscando la camada nro: {request.GET['camada'] }" 
+            email = request.GET['email'] 
+            print(email)
+            usuarios = Usuario.objects.filter(email__icontains=email)
+            print(usuarios)
+            return render(request, "blog/blog.html", {"usuarios":usuarios, "email":email})
+
+      else: 
+
+	      respuesta = "No enviaste datos"
+
+      return render(request, "blog/blog.html", {"respuesta":respuesta})
+      

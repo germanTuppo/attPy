@@ -8,4 +8,30 @@
     <h1>Esta sería la página de blog</h1>
     <p>en esta página tengo que agregar una entrada de blog (un post digamos)</p>
   
+
+    <h3>busco por mail:</h3>
+
+    <form action="/blog/buscar/" method="GET">
+
+        <input type="text" name="email" id="email">
+
+        <input type="submit" value="Buscar">
+
+    </form>
+
+    
+
+    {% if usuarios %}
+
+    <p>Estamos buscando el: {{email}}</p>
+
+    <ul>
+	{% for usuario in usuarios %}
+		<li> {{usuario.nombre}} </li>
+		<li> {{usuario.email}} </li>
+	{% endfor %}
+
+    </ul>
+   
+    {% endif %}
 {% endblock %}
