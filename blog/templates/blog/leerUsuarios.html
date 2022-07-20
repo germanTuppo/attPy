@@ -1,0 +1,26 @@
+{% extends "inicio/base.html" %}
+
+{% load static %}
+
+{% block mainContent %}
+
+    <!--Aquí va lo que cambia, y lo asociado a está vista :) -->
+    <h1>Esta sería la página para leer los usuarios</h1>
+
+    {% for usuario in usuarios%}
+
+    <ul>
+        <li>{{usuario.nombre}}</li>
+        <li>{{usuario.apellido}}</li>
+        <li>{{usuario.email}}</li>
+        <li>{{usuario.pais}}</li>
+        <li>{{usuario.deseaInfo}}</li>
+        <li>{{usuario.idioma}}</li>
+        <li>{{usuario.fechaRegistro}}</li>
+        <li>{{usuario.avatar}}</li>
+	</ul>
+
+    {% endfor %}
+
+  
+{% endblock %}

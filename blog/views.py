@@ -13,10 +13,18 @@ from django.urls import reverse_lazy
 
 
 import datetime
-# Create your views here.
+
 
 def blog(request):
       return render(request, "blog/blog.html")
+
+
+#crud usuarios
+def leerUsuarios(request):
+      usuarios = Usuario.objects.all()
+      contexto = {"usuarios":usuarios}
+      return render(request, "blog/leerUsuarios.html", contexto)
+
 
 
 
@@ -44,7 +52,7 @@ def usuarioFormulario(request):
 
             miFormulario= UsuarioFormulario() #Formulario vacio para construir el html
 
-      return render(request, "blog/blog.html", {"miFormulario":miFormulario})
+      return render(request, "blog/usuarioFormulario.html", {"miFormulario":miFormulario})
 
 
 def buscar(request):
