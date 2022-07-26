@@ -8,18 +8,24 @@
     <h1>Esta sería la página para leer los usuarios</h1>
 
     {% for usuario in usuarios%}
+        <ul>
+            <li>{{usuario.nombre}}</li>
+            <li>{{usuario.apellido}}</li>
+            <li>{{usuario.email}}</li>
+            <li>{{usuario.pais}}</li>
+            <li>{{usuario.deseaInfo}}</li>
+            <li>{{usuario.idioma}}</li>
+            <li>{{usuario.fechaRegistro}}</li>
+            <li>{{usuario.avatar}}</li>
+        </ul>
 
-    <ul>
-        <li>{{usuario.nombre}}</li>
-        <li>{{usuario.apellido}}</li>
-        <li>{{usuario.email}}</li>
-        <li>{{usuario.pais}}</li>
-        <li>{{usuario.deseaInfo}}</li>
-        <li>{{usuario.idioma}}</li>
-        <li>{{usuario.fechaRegistro}}</li>
-        <li>{{usuario.avatar}}</li>
-	</ul>
-
+        <button>
+            <a href="{% url 'eliminarUsuario' usuario.nombre %}">Eliminar Usuario</a>
+        </button>
+        <button>
+            <a href="{% url 'editarUsuario' usuario.nombre %}">Editar Usuario</a>
+        </button>
+        <br><br><br>
     {% endfor %}
 
   

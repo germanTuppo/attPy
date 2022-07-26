@@ -8,4 +8,8 @@ urlpatterns = [
     path('usuarioFormulario/', views.usuarioFormulario, name="usuarioFormulario"),
     path('buscar/', views.buscar),
     path('leerUsuarios/', views.leerUsuarios, name="leerUsuarios"),
+    path('eliminarUsuario//<usuarioNombre>/', views.eliminarUsuario, name="eliminarUsuario"),
+    path('editarUsuario//<usuarioNombre>/', views.editarUsuario, name="editarUsuario"),
+
+
 ]
