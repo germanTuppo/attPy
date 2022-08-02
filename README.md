@@ -1,7 +1,7 @@
 "# attPy"
 https://github.com/germanTuppo/attPy.git
 
-En este caso, mi intencion es comenzar un nuevo proyecto, para dejar el anterior ("miProyectoPy") como zona de pruebas, algo donde probar cosas para poder romper todo, pero tener un proyecto mas serio para poder trabajarlo tanto en esta preentrega como en la entrega del proyecto final (y despues, ya que este proyecto es algo real, en el que empece a trabajar con html y css y javascript, y es mi intención migrarlo a django para poder hacer uso de las bases de datos)
+Proyecto sitio de turismo. Argentina Travel and tours
 
 Crear proyecto:
     django-admin startproject miProyectoPy
@@ -65,15 +65,12 @@ MODELOS:
         comentario= models.CharField(max_length=500)
 
     Modelos de la app Paquetes:
-
-Para meter las tablas: python manage.py sqlmigrate "nombre de la app" 0001 esto crea la sentencia sql que crea la tabla y con python manage.py migrate las crea en el archivo db.sqlite3
-
-Los elementos de la db los voy a crear a mano para el desafío, por lo menos algunos (despues ver poner mas con código)
-
-Panel de administracion: python manage.py createsuperuser
-
-Agregue imagenes para los paquetes
+        proximamente
 
 
 
+Video eplicativo: 
+https://drive.google.com/file/d/1SIUSxMI5sN6WfIr8Bh8b7MFC87vCJflt/view?usp=sharing
 
+Capturas:
+https://docs.google.com/document/d/1rblkTbA54E7EOYviqRCNq6jcERCsFs0T0bQ3uQxg7vQ/edit?usp=sharing
